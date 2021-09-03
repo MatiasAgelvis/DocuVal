@@ -60,6 +60,10 @@ html_theme = 'furo'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+language = 'es'
+
+html_favicon = 'favicon.ico'
+
 html_theme_options = {
     # 'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
     # 'analytics_anonymize_ip': False,
