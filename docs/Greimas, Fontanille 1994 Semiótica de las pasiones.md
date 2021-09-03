@@ -1,6 +1,58 @@
 # Greimas, Fontanille 1994 Semiótica de las pasiones
 
 
+## p9
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J.&#160;y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones&#160;(De&#160;los&#160;estados&#160;de&#160;cosas&#160;a&#160;los&#160;</i><br/>
+<i>estados&#160;de&#160;ánimo)</i>.&#160;México&#160;Benemérita&#160;Universidad&#160;Autónoma&#160;de&#160;Puebla-Siglo&#160;XXI&#160;Editores.&#160;<br/>
+p.9<br/><b>Introducción&#160;<br/></b>La&#160;concepción&#160;de&#160;un&#160;actante&#160;despojado&#160;de&#160;su&#160;envoltura&#160;psicológica&#160;y&#160;definido&#160;únicamente&#160;por&#160;su&#160;hacer&#160;<br/>
+es&#160;la&#160;condición&#160;<i>sine&#160;qua&#160;non&#160;</i>para&#160;el&#160;desarrollo&#160;de&#160;la&#160;semiótica&#160;de&#160;la&#160;acción.&#160;<br/>
+p.12&#160;<br/>
+Para&#160;la&#160;semiótica,&#160;lo&#160;que&#160;está&#160;en&#160;juego&#160;consiste&#160;en&#160;afirmar&#160;la&#160;presencia&#160;<i>in&#160;absentia&#160;</i>que&#160;es&#160;la&#160;existencia&#160;<br/>
+semiótica,&#160;como&#160;objeto&#160;de&#160;su&#160;discurso&#160;y&#160;como&#160;condición&#160;de&#160;su&#160;actividad&#160;de&#160;construcción&#160;teórica…Por&#160;<br/>
+lo&#160;tanto,&#160;el&#160;discurso&#160;semiótico&#160;será&#160;la&#160;descripción&#160;de&#160;las&#160;estructuras&#160;inmanentes&#160;y&#160;la&#160;construcción&#160;de&#160;los&#160;<br/>
+simulacros&#160;destinados&#160;a&#160;dar&#160;cuenta&#160;de&#160;las&#160;condiciones&#160;y&#160;precondiciones&#160;de&#160;la&#160;manifestación&#160;del&#160;sentido&#160;<br/>
+y,&#160;en cierta&#160;medida, del&#160;“ser”…&#160;<br/>
+Como&#160;un&#160;flujo&#160;coagulante&#160;del&#160;sentido,&#160;con&#160;su&#160;espesamiento&#160;continuo,&#160;a&#160;partir&#160;de&#160;la&#160;confusión&#160;original&#160;y&#160;<br/>
+“potencial”,&#160;&#160;para&#160;&#160;llegar,&#160;&#160;por&#160;&#160;medio&#160;&#160;de&#160;&#160;su&#160;&#160;“virtualización”&#160;&#160;y&#160;&#160;“actualización”,&#160;&#160;al&#160;&#160;estudio&#160;&#160;de&#160;&#160;la&#160;<br/>
+“realización”,&#160;pasando&#160;así&#160;de&#160;las&#160;precondiciones&#160;epistemológicas&#160;a&#160;las&#160;manifestaciones&#160;discursivas.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
 ## p13 #1
 <!DOCTYPE html><html>
 <head>
@@ -197,689 +249,6 @@ y a&#160;su&#160;manifestación&#160;discursiva,&#160;encuentra&#160;obligatoria
 <br />
 <br />
 
-## p159 #1
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>P. 159&#160;<br/>
-LOS&#160;CELOS&#160;<br/>
-El&#160;&#160;primer&#160;&#160;objetivo&#160;&#160;de&#160;&#160;un&#160;&#160;estudio&#160;&#160;consagrado&#160;&#160;a&#160;&#160;los&#160;&#160;celos&#160;&#160;era&#160;&#160;disponer,&#160;&#160;junto&#160;&#160;con&#160;&#160;pasión&#160;&#160;que&#160;&#160;en&#160;&#160;un&#160;<br/>
-primer&#160;&#160;acercamiento&#160;&#160;podría&#160;&#160;pasar&#160;&#160;como&#160;&#160;una&#160;&#160;“pasión&#160;&#160;de&#160;&#160;objeto”&#160;&#160;–la&#160;&#160;avaricia-,&#160;&#160;de&#160;&#160;una&#160;&#160;pasión&#160;<br/>
-intersubjetiva&#160;que&#160;convirtiera,&#160;por&#160;lo&#160;menos&#160;potencialmente,&#160;tres&#160;actores:&#160;el&#160;celoso,&#160;el&#160;objeto,&#160;el&#160;rival.&#160;<br/>
-Ciertamente,&#160;la&#160;avaricia&#160;se&#160;reveló&#160;intersubjetiva,&#160;al&#160;menos&#160;implícitamente,&#160;y&#160;sobre&#160;todo&#160;en&#160;el&#160;momento&#160;<br/>
-de&#160;la&#160;moralización.&#160;Pero&#160;los&#160;celos&#160;ofrecen&#160;la&#160;ventaja&#160;de&#160;hacer&#160;explícita&#160;una&#160;escena&#160;pasional&#160;con&#160;varios&#160;<br/>
-roles,&#160;&#160;un&#160;&#160;entrelazamiento&#160;&#160;de&#160;&#160;estrategias,&#160;&#160;una&#160;&#160;verdadera&#160;&#160;interacción&#160;&#160;dotada&#160;&#160;de&#160;&#160;una&#160;&#160;historia&#160;&#160;y&#160;&#160;de&#160;&#160;un&#160;<br/>
-devenir,&#160;desde&#160;la&#160;manifestación lexical&#160;de&#160;la&#160;configuración,&#160;y a&#160;<i>fortiori&#160;</i>en el&#160;discurso.&#160;<br/>
-Por&#160;cierto,&#160;en&#160;el&#160;recorrido&#160;discursivo&#160;del&#160;avaro,&#160;las&#160;relaciones&#160;intersubjetivas&#160;sólo&#160;aparecen&#160;en&#160;<br/>
-el&#160;momento&#160;de&#160;la&#160;evaluación;&#160;desde&#160;luego&#160;que&#160;en&#160;profundidad&#160;son&#160;el&#160;resorte&#160;del&#160;“flujo&#160;circulante&#160;del&#160;<br/>
-valor”,&#160;pero&#160;en&#160;el&#160;nivel&#160;discursivo&#160;tienden&#160;a&#160;borrarse&#160;en&#160;provecho&#160;de&#160;las&#160;relaciones&#160;de&#160;objeto;&#160;es&#160;pues&#160;<br/>
-solamente&#160;&#160;a&#160;&#160;la&#160;&#160;luz&#160;&#160;de&#160;&#160;la&#160;&#160;moralización&#160;&#160;como&#160;&#160;nos&#160;&#160;damos&#160;&#160;cuenta&#160;&#160;de&#160;&#160;que&#160;&#160;las&#160;&#160;riquezas&#160;&#160;acumuladas&#160;&#160;y&#160;<br/>
-retenidas&#160;&#160;son&#160;&#160;a&#160;&#160;expensas&#160;&#160;del&#160;&#160;otro.&#160;&#160;En&#160;&#160;cambio,&#160;&#160;los&#160;&#160;celos&#160;&#160;aparecen&#160;&#160;de&#160;&#160;entrada&#160;&#160;sobre&#160;&#160;el&#160;&#160;fondo&#160;&#160;de&#160;&#160;una&#160;<br/>
-relación&#160;&#160;intersubjetiva&#160;&#160;compleja&#160;&#160;y&#160;&#160;variable,&#160;&#160;presente&#160;&#160;por&#160;&#160;definición&#160;&#160;a&#160;&#160;todo&#160;&#160;lo&#160;&#160;largo&#160;&#160;del&#160;&#160;recorrido&#160;<br/>
-pasional:&#160;&#160;el&#160;&#160;temor&#160;&#160;de&#160;&#160;perder&#160;&#160;el&#160;&#160;objeto&#160;&#160;no&#160;&#160;se&#160;&#160;comprende&#160;&#160;aquí&#160;&#160;más&#160;&#160;que&#160;&#160;por&#160;&#160;la&#160;&#160;presencia&#160;&#160;de&#160;&#160;un&#160;&#160;rival&#160;<br/>
-potencial&#160;&#160;o&#160;&#160;imaginario,&#160;&#160;y&#160;&#160;el&#160;&#160;temor&#160;&#160;del&#160;&#160;rival&#160;&#160;nace&#160;&#160;de&#160;&#160;la&#160;&#160;presencia&#160;&#160;del&#160;&#160;objeto&#160;&#160;que&#160;&#160;tiene&#160;&#160;la&#160;&#160;función&#160;&#160;de&#160;<br/>
-desafío.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p159 #2
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 159 (2)&#160;<br/>
-LOS&#160;CELOS&#160;<br/>
-Apego&#160;y&#160;rivalidad&#160;2&#160;<br/>
-Pero&#160;hay&#160;que&#160;ver&#160;bien&#160;que&#160;estas&#160;dos&#160;configuraciones&#160;están,&#160;si&#160;no&#160;muy&#160;próximas&#160;entre&#160;sí,&#160;por&#160;lo&#160;<br/>
-menos&#160;cuidadosamente&#160;articuladas&#160;en&#160;los&#160;celos.&#160;En&#160;una&#160;especie&#160;de&#160;presuposición&#160;alternada,&#160;el&#160;apego&#160;se&#160;<br/>
-refuerza&#160;con&#160;la&#160;rivalidad&#160;y&#160;la&#160;rivalidad&#160;se&#160;agudiza&#160;con&#160;el&#160;apego&#160;que&#160;la&#160;motiva.&#160;La&#160;consecuencia&#160;de&#160;esa&#160;<br/>
-articulación&#160;de&#160;dos&#160;configuraciones&#160;en&#160;gran&#160;parte&#160;autónomas&#160;no&#160;es&#160;nada&#160;despreciable;&#160;por&#160;una&#160;parte,&#160;la&#160;<br/>
-rivalidad&#160;&#160;nunca&#160;&#160;será,&#160;&#160;para&#160;&#160;el&#160;&#160;celoso,&#160;&#160;alegre&#160;&#160;y&#160;&#160;conquistadora,&#160;&#160;sino&#160;&#160;que&#160;&#160;aparecerá&#160;&#160;más&#160;&#160;bien&#160;&#160;como&#160;<br/>
-dolorosa&#160;y&#160;&#160;amarga,&#160;&#160;teniendo&#160;&#160;como&#160;&#160;perspectiva&#160;&#160;la&#160;&#160;pérdida&#160;&#160;del&#160;&#160;objeto;&#160;&#160;por&#160;&#160;la&#160;&#160;otro,&#160;&#160;el&#160;&#160;apego&#160;&#160;será&#160;<br/>
-profundamente&#160;inquieto&#160;y&#160;preocupado,&#160;ya&#160;que&#160;la&#160;amenaza&#160;del&#160;rival&#160;está&#160;latente:&#160;por&#160;ejemplo,&#160;puesto&#160;que&#160;<br/>
-lo&#160;&#160;único&#160;&#160;que&#160;&#160;cuenta&#160;&#160;es&#160;&#160;la&#160;&#160;relación&#160;&#160;con&#160;&#160;el&#160;&#160;ser&#160;&#160;amado,&#160;&#160;una&#160;&#160;inquietud&#160;&#160;guarda&#160;&#160;la&#160;&#160;huella&#160;&#160;de&#160;&#160;la&#160;&#160;actividad&#160;<br/>
-amenazadora&#160;y&#160;más&#160;o&#160;menos&#160;imaginaria&#160;de&#160;un&#160;antisujeto.&#160;…Asimismo,&#160;el&#160;celoso&#160;es&#160;un&#160;sujeto&#160;acosado&#160;<br/>
-entre&#160;dos&#160;relaciones&#160;que&#160;lo&#160;solicitan&#160;cada&#160;una&#160;por&#160;completo,&#160;pero&#160;a&#160;las&#160;cuales&#160;jamás&#160;puede&#160;consagrarse&#160;<br/>
-exclusivamente:&#160;preocupado&#160;por&#160;su&#160;apego&#160;cuando&#160;lucha,&#160;está,&#160;a&#160;la&#160;inversa,&#160;obsesionado&#160;por&#160;la&#160;rivalidad&#160;<br/>
-cuando&#160;ama.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p159
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 159 (2)&#160;<br/>
-LOS&#160;CELOS&#160;<br/>
-Señalamos&#160;aquí&#160;desde&#160;ahora&#160;que&#160;el&#160;recorrido&#160;pasional&#160;es&#160;aquí&#160;función&#160;de&#160;relaciones&#160;duales&#160;entre&#160;<br/>
-tres&#160;actantes&#160;y&#160;el&#160;conjunto&#160;está&#160;orientado&#160;por&#160;la&#160;perspectiva&#160;adoptada&#160;por&#160;el&#160;celoso;&#160;los&#160;celos&#160;en&#160;este&#160;<br/>
-sentido,&#160;&#160;pueden&#160;&#160;ser&#160;&#160;tanto&#160;&#160;un&#160;&#160;desamparo&#160;&#160;y&#160;&#160;un&#160;&#160;<i>sufrimiento&#160;&#160;</i>como&#160;&#160;un&#160;&#160;temor&#160;&#160;<i>y&#160;&#160;una&#160;&#160;</i>angustia,&#160;&#160;según&#160;&#160;si&#160;&#160;el&#160;<br/>
-acontecimiento&#160;decisivo&#160;es&#160;anterior&#160;o&#160;posterior&#160;a&#160;la&#160;crisis&#160;pasional.&#160;Si&#160;el&#160;acontecimiento&#160;–la&#160;junción&#160;del&#160;<br/>
-rival&#160;&#160;con&#160;&#160;el&#160;&#160;objeto-&#160;&#160;es&#160;&#160;tomado&#160;&#160;antes&#160;&#160;de&#160;&#160;su&#160;&#160;advenimiento,&#160;&#160;la&#160;&#160;relación&#160;&#160;es&#160;&#160;de&#160;&#160;<i>rivalidad&#160;&#160;</i>-S1/S2-&#160;&#160;pasa&#160;&#160;al&#160;<br/>
-primer&#160;plano&#160;y&#160;suscita&#160;el&#160;temor:&#160;se&#160;trata&#160;entonces&#160;de&#160;vigilar&#160;al&#160;otro,&#160;de&#160;desbaratar&#160;sus&#160;acercamientos,&#160;de&#160;<br/>
-desviarlo&#160;del&#160;objeto,&#160;de&#160;acaparar&#160;este&#160;último&#160;para&#160;excluir&#160;al&#160;rival.&#160;Si&#160;el&#160;acontecimiento&#160;es&#160;tomado&#160;una&#160;<br/>
-vez&#160;realizado,&#160;es&#160;evidente&#160;que&#160;para&#160;el&#160;celoso,&#160;a&#160;menos&#160;que&#160;busque&#160;vengarse&#160;no&#160;hay&#160;mucho&#160;que&#160;pueda&#160;<br/>
-hacer&#160;con&#160;el&#160;rival;&#160;en&#160;cambio,&#160;la&#160;relación&#160;de&#160;<i>apego&#160;</i>–S1/S3-&#160;pasa&#160;al&#160;primer&#160;plano.&#160;el&#160;celoso&#160;se&#160;vuelve&#160;<br/>
-entonces&#160;&#160;hacia&#160;&#160;el&#160;&#160;objeto,&#160;&#160;sobre&#160;&#160;el&#160;&#160;cual&#160;&#160;se&#160;&#160;pregunta&#160;&#160;a&#160;&#160;quién&#160;&#160;ama&#160;&#160;verdaderamente&#160;&#160;y&#160;&#160;hasta&#160;&#160;qué&#160;<br/>
-punto&#160;puede&#160;confiar&#160;en&#160;él.&#160;Es&#160;sólo&#160;entonces&#160;cuando&#160;el&#160;sufrimiento&#160;se&#160;nutre&#160;de&#160;variaciones&#160;fiduciarias&#160;y&#160;<br/>
-epistémicas.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p160
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 160&#160;<br/>
-LOS&#160;CELOS&#160;<br/>
-Apegos&#160;y&#160;rivalidad&#160;<br/>
-Un&#160;&#160;primer&#160;&#160;acercamiento,&#160;&#160;inspirado&#160;&#160;por&#160;&#160;la&#160;&#160;semántica&#160;&#160;lexical,&#160;&#160;consistirá&#160;&#160;en&#160;&#160;dejarse&#160;&#160;guiar&#160;&#160;un&#160;&#160;momento&#160;<br/>
-por&#160;las&#160;definiciones&#160;del&#160;diccionario.&#160;Para&#160;tener&#160;una&#160;primera&#160;idea&#160;de&#160;lo&#160;que&#160;son&#160;los&#160;celos,&#160;parecería&#160;útil&#160;<br/>
-saber&#160;a&#160;qué&#160;configuraciones&#160;más&#160;extensas&#160;pertenecen.&#160;A&#160;la&#160;vista&#160;de&#160;las&#160;definiciones,&#160;de&#160;los&#160;correlatos,&#160;de&#160;<br/>
-los&#160;sinónimos&#160;y&#160;de&#160;los&#160;antónimos,&#160;parece&#160;que&#160;los&#160;celos&#160;se&#160;ubican&#160;en&#160;la&#160;intersección&#160;de&#160;la&#160;configuración&#160;<br/>
-del&#160;<i>apego&#160;</i>y&#160;de&#160;la&#160;<i>rivalidad</i>,&#160;que&#160;corresponden&#160;respectivamente&#160;a&#160;la&#160;relación&#160;entre&#160;el&#160;celoso&#160;y&#160;su&#160;objeto&#160;<br/>
-–&#160;S1/O,S3-&#160;y a&#160;la&#160;relación entre&#160;el&#160;celoso y su rival&#160;–S1/S2.&#160;<br/>
-Todas&#160;&#160;las&#160;&#160;definiciones&#160;&#160;de&#160;&#160;los&#160;&#160;celos&#160;&#160;dan&#160;&#160;cuenta,&#160;&#160;directa&#160;&#160;o&#160;&#160;indirectamente,&#160;&#160;de&#160;&#160;un&#160;&#160;antisujeo&#160;&#160;que&#160;<br/>
-amenaza&#160;&#160;con&#160;&#160;hacer&#160;&#160;estragos&#160;&#160;o&#160;&#160;que&#160;&#160;ya&#160;&#160;los&#160;&#160;ha&#160;&#160;hecho.&#160;&#160;Por&#160;&#160;ejemplo,&#160;&#160;un&#160;&#160;antónimo&#160;&#160;como&#160;&#160;“bonachón”&#160;&#160;se&#160;<br/>
-glosa,&#160;&#160;entre&#160;&#160;otros,&#160;&#160;por&#160;&#160;“complaciente”,&#160;&#160;“inofensivo”,&#160;&#160;“pacífico”,&#160;&#160;lo&#160;&#160;que&#160;&#160;lleva&#160;&#160;a&#160;&#160;confirmar&#160;&#160;el&#160;&#160;carácter&#160;<br/>
-“combativo”&#160;&#160;“ofensivo”&#160;&#160;del&#160;&#160;celoso&#160;&#160;y,&#160;&#160;por&#160;&#160;lo&#160;&#160;tanto,&#160;&#160;la&#160;&#160;presencia&#160;&#160;al&#160;&#160;menos&#160;&#160;potencial&#160;&#160;de&#160;&#160;un&#160;&#160;rival&#160;&#160;en&#160;&#160;su&#160;<br/>
-territorio.&#160;&#160;Además,&#160;&#160;el&#160;&#160;celoso&#160;&#160;es&#160;&#160;ante&#160;&#160;todo&#160;&#160;–y&#160;&#160;por&#160;&#160;su&#160;&#160;misma&#160;&#160;etimología-&#160;&#160;alguien&#160;&#160;“particularmente&#160;<br/>
-apegado&#160;&#160;a…”,&#160;&#160;que&#160;&#160;“depende&#160;&#160;absolutamente&#160;&#160;de&#160;&#160;…”,&#160;&#160;y&#160;&#160;es&#160;&#160;por&#160;&#160;eso&#160;&#160;que&#160;&#160;los&#160;&#160;celos&#160;&#160;remiten&#160;&#160;también&#160;&#160;al&#160;<br/>
-deseo,&#160;al&#160;&#160;celo&#160;&#160;y&#160;&#160;a&#160;&#160;la&#160;&#160;envidia.&#160;&#160;El&#160;&#160;apego&#160;&#160;está&#160;&#160;también&#160;&#160;presente&#160;&#160;en&#160;&#160;los&#160;&#160;antónimos,&#160;&#160;en&#160;&#160;negativa&#160;&#160;esta&#160;&#160;vez:&#160;<br/>
-“indiferente”&#160;se&#160;glosa&#160;como&#160;“insensible”&#160;o “apartado”, por&#160;ejemplo.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p161-162
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 161-162&#160;<br/>
-LOS&#160;CELOS&#160;<br/>
-□&#160;Rivalidad,&#160;antagonismo&#160;y&#160;competencia&#160;<br/>
-La&#160;&#160;“rivalidad”&#160;&#160;sería,&#160;&#160;según&#160;&#160;el&#160;&#160;diccionario&#160;&#160;Pettit&#160;&#160;Robert,&#160;&#160;la&#160;&#160;“situación&#160;&#160;de&#160;&#160;dos&#160;&#160;o&#160;&#160;más&#160;&#160;personas&#160;&#160;que&#160;&#160;se&#160;<br/>
-disputan&#160;algo”&#160;(especialmente,&#160;el&#160;primer&#160;lugar,&#160;el&#160;primer&#160;puesto).&#160;“Situación”&#160;remite&#160;a&#160;un&#160;dispositivo&#160;<br/>
-actancial&#160;&#160;y&#160;&#160;narrativo,&#160;&#160;independientemente&#160;&#160;de&#160;&#160;toda&#160;&#160;manifestación&#160;&#160;pasional;&#160;&#160;éste&#160;&#160;sería&#160;&#160;el&#160;&#160;núcleo&#160;<br/>
-sintáctico&#160;de&#160;&#160;toda&#160;&#160;la&#160;&#160;configuración.&#160;&#160;Se&#160;&#160;notará&#160;&#160;la&#160;&#160;existencia&#160;&#160;de&#160;&#160;una&#160;&#160;relación&#160;&#160;polémica&#160;&#160;arquetípica,&#160;<br/>
-eventualmente&#160;&#160;organizada&#160;&#160;alrededor&#160;&#160;de&#160;&#160;un&#160;&#160;objeto&#160;&#160;(el&#160;&#160;“algo”),&#160;&#160;pero&#160;&#160;más&#160;&#160;a&#160;&#160;menudo&#160;&#160;en&#160;&#160;torno&#160;&#160;a&#160;&#160;una&#160;<br/>
-calificación&#160;&#160;de&#160;&#160;los&#160;&#160;sujetos&#160;&#160;(la&#160;&#160;superioridad),&#160;&#160;que&#160;&#160;podría&#160;&#160;ser&#160;&#160;interpretada&#160;&#160;como&#160;&#160;el&#160;&#160;resultado&#160;&#160;de&#160;&#160;una&#160;<br/>
-comparación entre&#160;competencias&#160;modales.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p162
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 162&#160;<br/>
-LOS&#160;CELOS&#160;<br/>
-.&#160;La&#160;emulación&#160;<br/>
-La&#160;“emulación”,&#160;“sentimiento&#160;que&#160;lleva&#160;a&#160;imitar&#160;o&#160;a&#160;superar&#160;a&#160;alguien&#160;en&#160;mérito,&#160;en&#160;saber,&#160;en&#160;trabajo”&#160;<br/>
-es&#160;un antiguo sinónimo de&#160;“rivalidad”&#160;y de&#160;“celos”. La&#160;emulación aporta&#160;a&#160;la&#160;rivalidad una&#160;nueva&#160;<br/>
-especificación. Lejos&#160;de&#160;proseguir el&#160;mismo camino que&#160;el&#160;antagonismo y la&#160;competencia, en las&#160;que&#160;<br/>
-veíamos&#160;dibujarse&#160;un objeto, la&#160;emulación se&#160;focaliza&#160;en la&#160;comparación entre&#160;las&#160;competencias&#160;de&#160;S1&#160;<br/>
-y&#160;S2;&#160;esa&#160;competencia&#160;puede&#160;ser aprehendida&#160;tal&#160;cual, como&#160;<i>saber-hacer&#160;</i>o&#160;<i>poder-hacer&#160;</i>o por medio del&#160;<br/>
-juicio ético que&#160;la&#160;transforma&#160;en “merito”.&#160;Ya&#160;que&#160;es&#160;un objeto modal&#160;el&#160;objeto que&#160;emerge&#160;de&#160;la&#160;<br/>
-rivalidad,&#160;el&#160;antagonismo toma&#160;aquí&#160;por objetivo al&#160;ser&#160;mismo de&#160;los&#160;sujetos&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p163 #1
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><img src="File 60-1_1.png"/><br/>
-<img src="File 60-1_2.png"/><br/>
-<img src="File 60-1_3.png"/><br/>
-<img src="File 60-1_4.png"/><br/>
-<img src="File 60-1_5.png"/><br/>
-<img src="File 60-1_6.png"/><br/>
-<b>GREIMAS&#160;A.&#160;J. y&#160;J. FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica de&#160;las&#160;pasiones</i><br/>
-p. 163<br/>
-LOS&#160;CELOS<br/>
-.&#160;¿Desconfianza&#160;o&#160;defidencia?&#160;<br/>
-La&#160;&#160;desconfianza&#160;&#160;y&#160;&#160;la&#160;&#160;difidencia&#160;&#160;son&#160;&#160;componentes&#160;&#160;tanto&#160;&#160;del&#160;&#160;recelo&#160;&#160;y&#160;&#160;de&#160;&#160;la&#160;&#160;sospecha&#160;&#160;como&#160;&#160;del&#160;<br/>
-temor,&#160;pues&#160;&#160;explotan&#160;&#160;el&#160;&#160;componente&#160;&#160;fiduciario&#160;&#160;subyacente&#160;&#160;al&#160;&#160;apego…hay&#160;&#160;una&#160;&#160;difidencia&#160;&#160;presupuesta&#160;<br/>
-por&#160;los&#160;celos&#160;y&#160;que&#160;tiene&#160;su&#160;fuente&#160;el&#160;la&#160;rivalidad…respecto&#160;al&#160;adversario,&#160;que&#160;es&#160;necesaria&#160;pero&#160;no&#160;&#160;es&#160;<br/>
-específica&#160;de&#160;los&#160;celos&#160;en&#160;absoluto…Ella&#160;resulta,&#160;entonces,&#160;más&#160;precisamente&#160;de&#160;una&#160;perturbación&#160;de&#160;la&#160;<br/>
-confianza&#160;propia&#160;al&#160;apego…&#160;<br/>
-CONFIANZA&#160;<br/>
-DIFIDENCIA&#160;<br/>
-¿PREFIANZA?&#160;<br/>
-DESCONFIANZA<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p163
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
-p.&#160;163<br/>
-LOS&#160;CELOS<br/>
-·&#160;La&#160;envidia&#160;<br/>
-En&#160;&#160;las&#160;&#160;definiciones&#160;&#160;del&#160;&#160;diccionario&#160;&#160;encontramos&#160;&#160;dos&#160;&#160;formas&#160;&#160;de&#160;&#160;“envidia”:&#160;&#160;por&#160;&#160;un&#160;&#160;lado,&#160;&#160;es&#160;&#160;un&#160;<br/>
-“sentimiento&#160;de&#160;tristeza,&#160;de&#160;irritación&#160;o&#160;de&#160;odio&#160;que&#160;nos&#160;anima&#160;contra&#160;quien&#160;posee&#160;un&#160;bien&#160;que&#160;nosotros&#160;<br/>
-no&#160;&#160;tenemos”&#160;&#160;y,&#160;&#160;por&#160;&#160;otra,&#160;&#160;puede&#160;&#160;también&#160;&#160;entenderse&#160;&#160;como&#160;&#160;el&#160;&#160;“deseo&#160;&#160;de&#160;&#160;gozar&#160;&#160;de&#160;&#160;una&#160;&#160;ventaja,&#160;&#160;de&#160;<br/>
-un&#160;placer&#160;&#160;similar&#160;&#160;al&#160;&#160;del&#160;&#160;otro”.&#160;&#160;La&#160;&#160;configuración&#160;&#160;de&#160;&#160;la&#160;&#160;rivalidad&#160;&#160;parece&#160;&#160;deber&#160;&#160;ahora&#160;&#160;escoger&#160;&#160;entre&#160;&#160;la&#160;<br/>
-relación&#160;polémica&#160;y&#160;la&#160;relación&#160;de&#160;objeto.&#160;La&#160;particularidad&#160;de&#160;la&#160;envidia&#160;radica&#160;en&#160;no&#160;poder&#160;manifestar&#160;<br/>
-a&#160;la&#160;vez&#160;sino&#160;una&#160;sola&#160;de&#160;las&#160;dos&#160;relaciones…&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p164
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
-p.&#160;164<br/>
-LOS&#160;CELOS<br/>
-.&#160;Del&#160;recelo&#160;a&#160;los&#160;celos&#160;<br/>
-El&#160;recelo&#160;es&#160;un&#160;“sentimiento&#160;de&#160;desconfianza”,&#160;un&#160;“temor&#160;a&#160;ser&#160;eclipsado,&#160;hundido&#160;en&#160;la&#160;penumbra&#160;por&#160;<br/>
-alguien”.&#160;&#160;La&#160;&#160;particularidad&#160;&#160;del&#160;&#160;recelo&#160;&#160;salta&#160;&#160;a&#160;&#160;la&#160;&#160;vista&#160;&#160;cuando&#160;&#160;se&#160;&#160;le&#160;&#160;compara&#160;&#160;con&#160;&#160;la&#160;&#160;envidia&#160;&#160;y&#160;&#160;la&#160;<br/>
-emulación.&#160;De&#160;la&#160;envidia&#160;queda&#160;muy&#160;poco,&#160;ya&#160;que&#160;el&#160;objeto&#160;pasa&#160;a&#160;segundo&#160;plano&#160;y&#160;el&#160;deseo&#160;ya&#160;no&#160;es&#160;<br/>
-manifestado.&#160;Sobre&#160;la&#160;emulación,&#160;al&#160;placer,&#160;el&#160;recelo&#160;invierte&#160;la&#160;estructura:&#160;en&#160;lugar&#160;de&#160;tratar&#160;de&#160;rebasar,&#160;<br/>
-eclipsar&#160;&#160;a&#160;&#160;otro,&#160;&#160;el&#160;&#160;sujeto&#160;&#160;teme&#160;&#160;esta&#160;&#160;vez&#160;&#160;ser&#160;&#160;rebasado&#160;&#160;o&#160;&#160;eclipsado;&#160;&#160;la&#160;&#160;emulación&#160;&#160;presupone&#160;&#160;la&#160;<br/>
-superioridad&#160;del&#160;rival,&#160;el&#160;recelo&#160;lo&#160;aprehende.&#160;EL&#160;dispositivo&#160;de&#160;base&#160;es&#160;siempre&#160;el&#160;mismo:&#160;la&#160;figuración&#160;<br/>
-de&#160;la&#160;rivalidad,&#160;sin&#160;objeto&#160;definido,&#160;pero&#160;aprehendida&#160;desde&#160;la&#160;perspectiva&#160;de&#160;uno&#160;solo&#160;de&#160;los&#160;sujetos.&#160;<br/>
-Únicamente&#160;&#160;ha&#160;&#160;cambiado&#160;&#160;la&#160;&#160;forma&#160;&#160;discursiva…Nos&#160;&#160;encontramos&#160;&#160;pues&#160;&#160;con&#160;&#160;otra&#160;&#160;variación&#160;&#160;de&#160;<br/>
-perspectiva&#160;en&#160;la&#160;que&#160;la&#160;emulación&#160;se&#160;construye&#160;en&#160;la&#160;perspectiva&#160;de&#160;aquel&#160;que&#160;trata&#160;de&#160;rebasar&#160;al&#160;otro&#160;y&#160;<br/>
-el&#160;recelo se&#160;construye&#160;en&#160;la&#160;perspectiva&#160;de&#160;aquel&#160;que&#160;es&#160;susceptible&#160;de&#160;ser rebasado.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p165
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
-p.&#160;165<br/>
-LOS&#160;CELOS<br/>
-Dentro&#160;&#160;de&#160;&#160;esa&#160;&#160;configuración,&#160;&#160;los&#160;&#160;“celos”&#160;&#160;se&#160;&#160;dan&#160;&#160;como&#160;&#160;un&#160;&#160;resultado&#160;&#160;de&#160;&#160;la&#160;&#160;serie&#160;&#160;de&#160;<br/>
-especificaciones&#160;&#160;y&#160;&#160;de&#160;&#160;articulaciones&#160;&#160;ya&#160;&#160;señaladas&#160;&#160;en&#160;&#160;las&#160;&#160;figuras&#160;&#160;precedentes:&#160;&#160;desde&#160;&#160;luego,&#160;&#160;es&#160;&#160;la&#160;&#160;más&#160;<br/>
-compleja&#160;de&#160;todas&#160;las&#160;que&#160;hemos&#160;considerado&#160;hasta&#160;ahora.&#160;Se&#160;apoya&#160;en&#160;el&#160;dispositivo&#160;actancial&#160;S1/S2/<br/>
-S3;&#160;está&#160;&#160;fundada&#160;&#160;también&#160;&#160;en&#160;&#160;la&#160;&#160;perspectiva&#160;&#160;de&#160;&#160;un&#160;&#160;sujeto&#160;&#160;S1;&#160;&#160;puede&#160;&#160;focalizar,&#160;&#160;ya&#160;&#160;sea&#160;&#160;la&#160;&#160;relación&#160;&#160;de&#160;<br/>
-rivalidad,&#160;&#160;especificándose&#160;&#160;así&#160;&#160;en&#160;&#160;prospección&#160;&#160;como&#160;&#160;un&#160;&#160;“temor”,&#160;&#160;o&#160;&#160;bien&#160;&#160;en&#160;&#160;relación&#160;&#160;de&#160;&#160;objeto,&#160;<br/>
-especializándose&#160;entonces&#160;&#160;en&#160;&#160;retrospección&#160;&#160;que&#160;&#160;con&#160;&#160;la&#160;&#160;emulación,&#160;&#160;ya&#160;&#160;que&#160;&#160;la&#160;&#160;perspectiva&#160;&#160;será&#160;&#160;siempre&#160;<br/>
-la&#160;&#160;de&#160;&#160;aquel&#160;&#160;que&#160;teme&#160;ser&#160;rebasado&#160;o&#160;que&#160;sufre&#160;por&#160;haberlo&#160;sido,&#160;dicho&#160;de&#160;otra&#160;forma&#160;la&#160;competencia&#160;de&#160;<br/>
-referencia&#160;es&#160;la&#160;del&#160;celoso&#160;y&#160;desde&#160;que&#160;el&#160;sistema&#160;se&#160;invierte,&#160;al&#160;convertirse&#160;la&#160;competencia&#160;del&#160;rival&#160;en&#160;<br/>
-referencia, se&#160;sale&#160;de&#160;los&#160;celos&#160;para&#160;entrar en la&#160;emulación.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p167-168
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
-p.&#160;167-168<br/>
-LOS&#160;CELOS<br/>
-Esa&#160;posición&#160;muy&#160;particular&#160;en&#160;el&#160;dispositivo&#160;actancial&#160;va&#160;a&#160;traducirse&#160;en&#160;el&#160;nivel&#160;discursivo&#160;por&#160;<br/>
-la&#160;atribución&#160;de&#160;una&#160;posición&#160;de&#160;observación&#160;específica:&#160;el&#160;observador&#160;de&#160;los&#160;celos&#160;será&#160;de&#160;hecho&#160;un&#160;<br/>
-“espectador”,&#160;&#160;es&#160;&#160;decir,&#160;&#160;un&#160;&#160;observador&#160;&#160;cuyas&#160;&#160;coordenadas&#160;&#160;espacio-temporales&#160;&#160;se&#160;&#160;refieren&#160;&#160;a&#160;&#160;las&#160;&#160;de&#160;&#160;un&#160;<br/>
-espectáculo&#160;que&#160;le&#160;es&#160;dado,&#160;pero&#160;que&#160;en&#160;ningún&#160;caso&#160;puede&#160;figurar&#160;como&#160;actor&#160;en&#160;la&#160;misma&#160;escena.&#160;En&#160;<br/>
-efecto,&#160;&#160;como&#160;&#160;se&#160;&#160;verá&#160;&#160;pronto,&#160;&#160;cualquiera&#160;&#160;que&#160;&#160;sea&#160;&#160;la&#160;&#160;posición&#160;&#160;espacial&#160;&#160;o&#160;&#160;temporal&#160;&#160;del&#160;&#160;celoso&#160;&#160;con&#160;<br/>
-relación&#160;a&#160;la&#160;escena&#160;en&#160;la&#160;que&#160;el&#160;rival&#160;y&#160;el&#160;objeto&#160;se&#160;conjuntan,&#160;esta&#160;última&#160;está&#160;siempre&#160;“presente”&#160;en&#160;su&#160;<br/>
-imaginación&#160;–es&#160;la&#160;obra&#160;de&#160;sus&#160;determinaciones&#160;espacio-temporales-,&#160;pero siempre&#160;excluido.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p167
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
-p. 167<br/>
-LOS&#160;CELOS<br/>
-.&#160;El&#160;celoso&#160;en&#160;el&#160;espectáculo&#160;<br/>
-Se&#160;puede&#160;hacer&#160;observar&#160;a&#160;ese&#160;respecto&#160;que&#160;los&#160;celos&#160;especifican&#160;al&#160;actante&#160;observador&#160;encargado&#160;de&#160;<br/>
-orientar&#160;el&#160;dispositivo&#160;actancial.&#160;El&#160;celoso&#160;sufre&#160;por&#160;“ver&#160;a&#160;otro&#160;gozar”&#160;o&#160;“teme&#160;perder”;&#160;en&#160;un&#160;caso,&#160;S2&#160;<br/>
-es&#160;focalizado,&#160;en&#160;el&#160;otro,&#160;es&#160;O,S3;&#160;pero&#160;la&#160;particularidad&#160;de&#160;los&#160;celos&#160;radica&#160;en&#160;apuntar&#160;siempre&#160;hacia&#160;la&#160;<br/>
-relación&#160;S2/O,S3,&#160;poniendo&#160;en&#160;un&#160;primer&#160;plano,&#160;o&#160;bien&#160;a&#160;un&#160;actante,&#160;o&#160;bien&#160;al&#160;otro;&#160;por&#160;eso,&#160;cualquiera&#160;<br/>
-sea&#160;la&#160;perspectiva&#160;adoptada,&#160;el&#160;espectáculo&#160;que&#160;ofrece&#160;a&#160;S1,&#160;es&#160;siempre&#160;el&#160;de&#160;la&#160;junción&#160;entre&#160;rival&#160;y&#160;el&#160;<br/>
-objeto.&#160;&#160;Que&#160;&#160;algún&#160;&#160;otro&#160;&#160;goce&#160;&#160;de&#160;&#160;O&#160;&#160;o&#160;&#160;que&#160;&#160;O&#160;&#160;pueda&#160;&#160;ser&#160;&#160;perdido&#160;&#160;en&#160;&#160;provecho&#160;&#160;de&#160;&#160;otro,&#160;&#160;la&#160;&#160;misma&#160;&#160;escena&#160;<br/>
-engendra&#160;siempre&#160;la&#160;misma&#160;pasión&#160;más&#160;allá&#160;de&#160;la&#160;variación&#160;de&#160;perspectiva.&#160;Los&#160;celos&#160;obedecerán&#160;a&#160;la&#160;<br/>
-misma&#160;distinción que&#160;la&#160;envidia, pero&#160;desde&#160;el&#160;fondo&#160;de&#160;una&#160;especificación&#160;propia.&#160;<br/>
-Si&#160;el&#160;espectáculo&#160;fundamental&#160;de&#160;los&#160;celos&#160;es&#160;el&#160;de&#160;la&#160;junción&#160;modalizada&#160;del&#160;rival&#160;y&#160;del&#160;objeto,&#160;<br/>
-el&#160;celoso&#160;como&#160;observador&#160;es&#160;excluido&#160;de&#160;la&#160;relación&#160;de&#160;junción.&#160;El&#160;envidioso&#160;podía&#160;escoger&#160;entre&#160;dos&#160;<br/>
-perspectivas,&#160;&#160;en&#160;&#160;las&#160;&#160;que&#160;&#160;siempre&#160;&#160;era&#160;&#160;el&#160;&#160;polo&#160;&#160;principal:&#160;&#160;o&#160;&#160;bien&#160;&#160;S1/S2,&#160;&#160;o&#160;&#160;bien&#160;&#160;S1/O,S3;&#160;&#160;por&#160;&#160;su&#160;&#160;parte&#160;&#160;en&#160;<br/>
-última&#160;&#160;instancia,&#160;&#160;el&#160;&#160;celoso&#160;&#160;sólo&#160;&#160;puede&#160;&#160;escoger&#160;&#160;entre&#160;&#160;dos&#160;&#160;perspectivas&#160;&#160;sobre&#160;&#160;S2/O,S3,&#160;&#160;por&#160;&#160;lo&#160;&#160;que&#160;&#160;se&#160;<br/>
-encuentra&#160;&#160;siempre&#160;&#160;en&#160;&#160;un&#160;&#160;segundo&#160;&#160;plano:&#160;&#160;sea&#160;&#160;(S1)&#160;&#160;S2/O&#160;&#160;o&#160;&#160;sea&#160;&#160;(S1)&#160;&#160;S2/O,S3.&#160;&#160;Por&#160;&#160;esa&#160;&#160;razón,&#160;&#160;el&#160;&#160;sujeto&#160;<br/>
-celoso&#160;se&#160;encuentra&#160;en&#160;la&#160;imposibilidad&#160;de&#160;segmentar&#160;el&#160;dispositivo&#160;actancial&#160;de&#160;manera&#160;distinta&#160;y&#160;la&#160;<br/>
-escena&#160;&#160;detestada&#160;&#160;o&#160;&#160;temida&#160;&#160;se&#160;&#160;le&#160;&#160;impone;&#160;&#160;con&#160;&#160;respecto&#160;&#160;a&#160;&#160;su&#160;&#160;propio&#160;&#160;simulacro&#160;&#160;pasional,&#160;&#160;él&#160;&#160;se&#160;<br/>
-presenta&#160;&#160;como&#160;sujeto&#160;virtualizado, un sujeto&#160;sin cuerpo que&#160;no puede&#160;acceder&#160;&#160;la&#160;escena.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p168
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
-p.&#160;168<br/>
-LOS&#160;CELOS<br/>
-.&#160;El&#160;apego&#160;intenso&#160;<br/>
-Nos&#160;&#160;limitaremos&#160;&#160;aquí&#160;&#160;al&#160;&#160;examen&#160;&#160;del&#160;&#160;“apego”&#160;&#160;propiamente&#160;&#160;dicho&#160;&#160;y&#160;&#160;luego&#160;&#160;de&#160;&#160;los&#160;&#160;correlatos&#160;&#160;“posesión”&#160;&#160;y&#160;<br/>“exclusividad”.&#160;En&#160;la&#160;definición&#160;misma&#160;de&#160;los&#160;celos,&#160;al&#160;apego&#160;está&#160;asociado,&#160;por&#160;un&#160;lado,&#160;con&#160;la&#160;intensidad,&#160;ya&#160;que&#160;es&#160;<br/>“vivo”, y,&#160;por el&#160;otro, con el&#160;“deseo&#160;de&#160;posesión exclusiva”.&#160;<br/>La&#160;intensidad&#160;del&#160;apego&#160;sobredeterminaría&#160;la&#160;junción,&#160;puesto&#160;que&#160;el&#160;diccionario&#160;precisa&#160;que&#160;es&#160;“un&#160;sentimiento&#160;que&#160;<br/>nos&#160;une…”…El&#160;apego&#160;descansaría&#160;con&#160;el&#160;<i>deber-estar-ser&#160;</i>que&#160;modalizaría&#160;no&#160;al&#160;objeto&#160;sino&#160;a&#160;la&#160;junción,&#160;cualquiera&#160;<br/>que&#160;ésta&#160;sea.&#160;Un&#160;<i>deber-estar-ser&#160;</i>que&#160;compromete&#160;en&#160;alguna&#160;medida&#160;la&#160;existencia&#160;semiótica&#160;del&#160;sujeto;&#160;sucede&#160;en&#160;efecto&#160;<br/>como&#160;si,&#160;estando&#160;roto&#160;el&#160;apego,&#160;el&#160;sujeto&#160;debería&#160;regresar&#160;a&#160;un&#160;estadio&#160;presemiótico&#160;en&#160;el&#160;que&#160;nada&#160;tendría&#160;ya&#160;ningún&#160;<br/>valor para&#160;él.&#160;<br/>
-No&#160;se&#160;ve&#160;cómo&#160;la&#160;intensidad&#160;podría&#160;afectar&#160;directamente&#160;a&#160;esa&#160;modalidad,&#160;ya&#160;que&#160;es&#160;categorial:&#160;¿cómo&#160;una&#160;<br/>
-necesidad&#160;&#160;que&#160;&#160;se&#160;&#160;respete&#160;&#160;puede&#160;&#160;ser&#160;&#160;más&#160;&#160;o&#160;&#160;menos&#160;&#160;fuerte&#160;&#160;que&#160;&#160;otra&#160;&#160;necesidad?&#160;&#160;Las&#160;&#160;únicas&#160;&#160;respuestas&#160;&#160;que&#160;&#160;vienen&#160;a&#160;&#160;la&#160;<br/>mente&#160;son&#160;de&#160;tipo&#160;discursivo&#160;o&#160;tensivo:&#160;se&#160;puede&#160;admitir&#160;que&#160;ciertas&#160;necesidades&#160;sean&#160;jerárquicamente&#160;superiores&#160;a&#160;<br/>otras,&#160;&#160;que&#160;&#160;algunas&#160;&#160;sean&#160;&#160;más&#160;&#160;urgentes,&#160;&#160;prioritarias.&#160;&#160;La&#160;&#160;necesidad,&#160;&#160;en&#160;&#160;suma,&#160;&#160;no&#160;&#160;conocería&#160;&#160;otras&#160;&#160;gradaciones&#160;&#160;ni&#160;&#160;otras&#160;<br/>diferencias&#160;&#160;de&#160;&#160;intensidad&#160;&#160;que&#160;&#160;las&#160;&#160;que&#160;&#160;obligan&#160;&#160;a&#160;&#160;distribuir&#160;&#160;temporal&#160;&#160;y&#160;&#160;espacialmente&#160;&#160;los&#160;&#160;programas&#160;&#160;con&#160;&#160;vistas&#160;&#160;a&#160;&#160;su&#160;<br/>linearización,&#160;&#160;durante&#160;&#160;la&#160;&#160;puesta&#160;&#160;en&#160;&#160;discurso:&#160;&#160;la&#160;&#160;intensidad&#160;&#160;del&#160;&#160;apego&#160;&#160;se&#160;&#160;reconocería&#160;&#160;especialmente,&#160;&#160;ya&#160;&#160;sea&#160;&#160;en&#160;&#160;la&#160;<br/>anterioridad&#160;de&#160;los&#160;programas&#160;o&#160;de&#160;los&#160;comportamientos&#160;correspondientes&#160;al&#160;objeto,&#160;o&#160;bien&#160;por&#160;su&#160;ubicación&#160;en&#160;primer&#160;<br/>plano en la&#160;representación&#160;figurativa&#160;que&#160;el&#160;sujeto da&#160;de&#160;su&#160;ser.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
 ## p17
 <!DOCTYPE html><html>
 <head>
@@ -921,328 +290,6 @@ otras&#160;&#160;formulaciones&#160;&#160;filosóficas&#160;&#160;o&#160;&#160;c
 sentido….para&#160;&#160;el&#160;&#160;<i>mundo&#160;&#160;humano</i>,&#160;&#160;la&#160;&#160;tensividad&#160;&#160;no&#160;&#160;es&#160;&#160;más&#160;&#160;que&#160;&#160;una&#160;&#160;de&#160;&#160;las&#160;&#160;propiedades&#160;<br/>
 fundamentales&#160;del&#160;&#160;espacio&#160;&#160;interior&#160;&#160;que&#160;&#160;hemos&#160;&#160;reconocido&#160;&#160;y&#160;&#160;definido&#160;&#160;como&#160;&#160;vertimiento&#160;&#160;del&#160;&#160;mundo&#160;<br/>
 natural&#160;en el&#160;sujeto,&#160;con&#160;vistas&#160;a&#160;la&#160;construcción del&#160;mundo propio&#160;de&#160;la&#160;existencia&#160;semiótica.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p170
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 170&#160;<br/>
-LOS&#160;CELOS&#160;<br/>
-.El&#160;celo&#160;<br/>
-El&#160;celo&#160;intensifica&#160;y&#160;moraliza&#160;a&#160;la&#160;vez&#160;el&#160;apego.&#160;Es,&#160;se&#160;dice,&#160;“un&#160;vivo&#160;ardor&#160;por&#160;servir&#160;a&#160;una&#160;persona&#160;o&#160;a&#160;<br/>
-una&#160;&#160;causa,&#160;&#160;a&#160;&#160;la&#160;&#160;cual&#160;&#160;se&#160;&#160;está&#160;&#160;sinceramente&#160;&#160;consagrado”.&#160;&#160;La&#160;&#160;intensidad&#160;&#160;se&#160;&#160;manifiesta&#160;&#160;aquí&#160;&#160;como&#160;<br/>
-“calor”,&#160;el&#160;&#160;sentimiento&#160;&#160;se&#160;&#160;ha&#160;&#160;convertido&#160;&#160;en&#160;&#160;una&#160;&#160;disposición&#160;&#160;a&#160;&#160;hacer&#160;&#160;(a&#160;&#160;servir),&#160;&#160;y&#160;&#160;el&#160;&#160;apego&#160;&#160;es&#160;&#160;sólo&#160;<br/>
-presupuesto;&#160;&#160;además,&#160;&#160;el&#160;&#160;apego&#160;&#160;es&#160;&#160;reformulado&#160;&#160;como&#160;&#160;“abnegación”,&#160;&#160;lo&#160;&#160;que,&#160;&#160;si&#160;&#160;se&#160;&#160;pone&#160;&#160;entre&#160;<br/>
-paréntesis&#160;&#160;el&#160;&#160;hecho&#160;&#160;de&#160;que&#160;la&#160;relación&#160;sea&#160;en&#160;ese&#160;caso&#160;intersubjetiva&#160;y&#160;jerarquizada,&#160;viene&#160;a&#160;señalar&#160;el&#160;<br/>
-investimiento&#160;exclusivo&#160;del&#160;sujeto&#160;por&#160;su&#160;objeto:&#160;está&#160;“consagrado”,&#160;incluso&#160;“sacrificado”&#160;a&#160;su&#160;objeto,&#160;y&#160;<br/>
-los&#160;correlatos&#160;“fidelidad”,&#160;“lealtad”,&#160;confirman&#160;la&#160;independencia&#160;del&#160;<i>deber.-ser-estar&#160;</i>con&#160;respecto&#160;a&#160;las&#160;<br/>
-peripecias&#160;narrativas,&#160;una&#160;vez&#160;que&#160;ha&#160;sido&#160;suspendida&#160;la&#160;moralización&#160;que&#160;los&#160;sobredetermina.&#160;Por&#160;lo&#160;<br/>
-demás,&#160;presuponiendo&#160;la&#160;<i>confianza</i>,&#160;esos&#160;dos&#160;últimos&#160;correlatos&#160;nos&#160;recuerdan&#160;que,&#160;de&#160;este&#160;lado&#160;de&#160;la&#160;<br/>
-moralización,&#160;el&#160;<i>deber-&#160;estar-&#160;ser&#160;</i>engendra&#160;la&#160;espera&#160;o&#160;que,&#160;más&#160;profundamente,&#160;la&#160;modulación&#160;que&#160;lo&#160;<br/>
-prefigura&#160;se&#160;dibuja&#160;sobre&#160;el&#160;fondo de&#160;la&#160;fiducia.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p171
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 171<br/>
-LOS&#160;CELOS&#160;<br/>
-.La&#160;posesión&#160;y&#160;el&#160;gozo&#160;<br/>
-La&#160;posesión&#160;exclusiva&#160;que&#160;reclama&#160;el&#160;celoso&#160;abre&#160;dos&#160;vías&#160;de&#160;investigación&#160;paralelas:&#160;una&#160;relativa&#160;a&#160;la&#160;<br/>
-posesión,&#160;y&#160;la&#160;otra,&#160;a&#160;la&#160;otra,&#160;a&#160;la&#160;exclusividad.&#160;Entendemos&#160;a&#160;veces&#160;por&#160;“actitud&#160;posesiva”&#160;una&#160;actitud&#160;<br/>
-exclusiva,&#160;&#160;pero&#160;&#160;esa&#160;&#160;contaminación&#160;&#160;de&#160;&#160;un&#160;&#160;término&#160;&#160;por&#160;&#160;otro&#160;&#160;noes&#160;&#160;más&#160;&#160;que&#160;&#160;un&#160;&#160;efecto&#160;&#160;de&#160;&#160;su&#160;&#160;frecuentes&#160;<br/>
-asociaciones.&#160;<br/>
-La&#160;“posesión”&#160;sería&#160;la&#160;“facultad&#160;de&#160;hacer&#160;uso&#160;de&#160;un&#160;bien&#160;del&#160;que&#160;se&#160;dispone”&#160;y&#160;remitirá&#160;así&#160;a&#160;<br/>
-“detentar”&#160;“servirse&#160;de”,&#160;“poder&#160;gozar&#160;de”.&#160;El&#160;sujeto&#160;de&#160;la&#160;posesión&#160;no&#160;es&#160;un&#160;sujeto&#160;de&#160;hacer&#160;que&#160;apunte&#160;<br/>
-a&#160;la&#160;conjunción,&#160;sino&#160;un&#160;sujeto&#160;ya&#160;conjunto&#160;que&#160;apunta&#160;al&#160;goce&#160;del&#160;objeto.&#160;Se&#160;observa&#160;también&#160;un&#160;sujeto&#160;<br/>
-de&#160;&#160;hacer&#160;&#160;que&#160;&#160;da&#160;&#160;placer&#160;&#160;al&#160;&#160;sujeto&#160;&#160;de&#160;&#160;estado,&#160;&#160;pero&#160;&#160;estaría&#160;&#160;situado&#160;&#160;en&#160;&#160;la&#160;&#160;dimensión&#160;&#160;tímica&#160;&#160;y&#160;&#160;no&#160;&#160;en&#160;&#160;la&#160;<br/>
-dimensión&#160;&#160;pragmática&#160;&#160;que&#160;&#160;ha&#160;&#160;llevado&#160;&#160;a&#160;&#160;la&#160;&#160;conjunción&#160;&#160;con&#160;&#160;el&#160;&#160;objeto:&#160;&#160;se&#160;&#160;escoge&#160;&#160;y&#160;&#160;compra&#160;&#160;una&#160;&#160;casa&#160;<br/>
-(dimensión&#160;pragmática) y&#160;se&#160;goza&#160;de&#160;ella&#160;una&#160;vez&#160;que&#160;se&#160;la&#160;tiene&#160;(dimensión tímica)…&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p173
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 173&#160;<br/>
-LOS&#160;CELOS&#160;<br/>
-.&#160;La&#160;exclusividad&#160;<br/>
-La&#160;&#160;“exclusividad”,&#160;&#160;así&#160;&#160;como&#160;&#160;el&#160;&#160;adjetivo&#160;&#160;“exclusivo”&#160;&#160;y&#160;&#160;el&#160;&#160;verbo&#160;&#160;“excluir”,&#160;&#160;comportan&#160;&#160;a&#160;&#160;la&#160;&#160;vez&#160;&#160;una&#160;<br/>
-modalización,&#160;según el&#160;<i>deber-no-estar-ser,&#160;</i>y&#160;una&#160;cuantificación.&#160;<br/>
-Toda&#160;exclusión&#160;supone&#160;una&#160;totalidad&#160;y&#160;una&#160;parte&#160;de&#160;esa&#160;totalidad&#160;considerada&#160;como&#160;una&#160;unidad;&#160;<br/>
-lo&#160;&#160;que&#160;&#160;en&#160;&#160;realidad&#160;&#160;delimita&#160;&#160;a&#160;&#160;la&#160;&#160;exclusión&#160;&#160;es&#160;&#160;una&#160;&#160;realidad&#160;&#160;salida&#160;&#160;de&#160;&#160;la&#160;&#160;totalidad,&#160;&#160;individuo,&#160;&#160;grupo&#160;&#160;o&#160;<br/>
-fracción…&#160;<br/>
-p. 176&#160;<br/>
-Consultando&#160;&#160;de&#160;&#160;nuevo&#160;&#160;las&#160;&#160;definiciones&#160;&#160;del&#160;&#160;diccionario,&#160;&#160;notamos&#160;&#160;que&#160;&#160;distinguen&#160;&#160;cuatro&#160;<br/>
-sememas,&#160;caracterizados&#160;cada&#160;uno&#160;por&#160;un&#160;término&#160;genérico,&#160;Se&#160;encuentra&#160;así&#160;un&#160;<i>apego</i>:&#160;“apego&#160;vivo&#160;y&#160;<br/>
-receloso”,&#160;&#160;un&#160;&#160;<i>mal&#160;&#160;sentimiento</i>:&#160;&#160;“mal&#160;&#160;sentimiento&#160;&#160;que&#160;&#160;se&#160;&#160;experimenta&#160;&#160;viendo&#160;&#160;a&#160;&#160;otro&#160;&#160;gozar…”;&#160;&#160;una&#160;<br/>
-<i>inquietud</i>:&#160;&#160;inquietud&#160;&#160;que&#160;&#160;inspira&#160;&#160;el&#160;&#160;temor&#160;&#160;a&#160;&#160;compartir…”;&#160;&#160;y&#160;&#160;por&#160;&#160;último,&#160;&#160;un&#160;&#160;<i>sentimiento&#160;&#160;doloroso:&#160;</i><br/>
-“sentimiento&#160;doloroso&#160;que&#160;hace&#160;nacer,&#160;en&#160;el&#160;que&#160;lo&#160;experimenta,&#160;las&#160;exigencias&#160;de&#160;un&#160;amor&#160;inquieto,&#160;el&#160;<br/>
-deseo de&#160;posesión&#160;exclusiva&#160;de&#160;la&#160;persona&#160;amada, la&#160;sospecha&#160;o&#160;la&#160;incertidumbre&#160;de&#160;su infidelidad”.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p178-179
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 178-179&#160;<br/>
-LOS&#160;CELOS&#160;<br/>
-.&#160;La&#160;inquietud&#160;<br/>
-La&#160;inquietud&#160;parece&#160;ser&#160;más&#160;general&#160;que&#160;el&#160;temor&#160;o&#160;el&#160;recelo,&#160;razón&#160;por&#160;la&#160;cual&#160;será&#160;considerada&#160;como&#160;<br/>
-uno&#160;de&#160;los&#160;constituyentes&#160;sintácticos&#160;fundamentales&#160;de&#160;los&#160;celos.&#160;El&#160;temor&#160;solo&#160;no&#160;supone&#160;más&#160;que&#160;un&#160;<br/>
-saber&#160;&#160;y&#160;&#160;un&#160;&#160;creer,&#160;&#160;una&#160;&#160;espera,&#160;&#160;modalizada&#160;&#160;a&#160;&#160;la&#160;&#160;vez&#160;&#160;conflictivamente&#160;&#160;por&#160;&#160;el&#160;&#160;<i>poder-estar-ser&#160;&#160;(la&#160;</i><br/>
-<i>eventualidad)&#160;&#160;y&#160;&#160;por&#160;&#160;el&#160;&#160;querer-no&#160;&#160;estar-ser&#160;&#160;</i>(el&#160;&#160;rechazo).&#160;&#160;Por&#160;&#160;el&#160;&#160;contrario,&#160;&#160;la&#160;&#160;inquietud&#160;&#160;introduce,&#160;&#160;con&#160;<br/>
-permanencia&#160;y&#160;la&#160;iteración,&#160;un&#160;rol&#160;patémico&#160;estereotipado,&#160;una&#160;constante&#160;de&#160;la&#160;competencia&#160;pasional&#160;<br/>
-del&#160;sujeto.&#160;Circunscritos&#160;al&#160;temor,&#160;los&#160;celos&#160;no&#160;serían&#160;más&#160;que&#160;un&#160;sentimiento&#160;puntual,&#160;incidental,&#160;ya&#160;que&#160;<br/>
-el&#160;temor&#160;no&#160;tiene&#160;otra&#160;razón&#160;que&#160;un&#160;acontecimiento&#160;por&#160;venir,&#160;que&#160;aquí&#160;cumple&#160;una&#160;función&#160;de&#160;objeto&#160;de&#160;<br/>
-saber&#160;y&#160;que&#160;moviliza&#160;la&#160;espera;&#160;eso&#160;sería,&#160;de&#160;alguna&#160;manera,&#160;unos&#160;celos&#160;dictados&#160;por&#160;las&#160;circunstancias.&#160;<br/>
-En&#160;&#160;cambio,&#160;&#160;con&#160;&#160;la&#160;&#160;inquietud&#160;&#160;que&#160;&#160;por&#160;&#160;definición&#160;&#160;no&#160;&#160;tiene&#160;&#160;objeto&#160;&#160;preciso,&#160;&#160;los&#160;&#160;celos&#160;&#160;llegan&#160;&#160;a&#160;&#160;ser&#160;&#160;una&#160;<br/>
-propiedad&#160;del&#160;sujeto&#160;mismo,&#160;inscrita&#160;no&#160;en&#160;la&#160;circunstancia,&#160;sino&#160;en&#160;la&#160;competencia,&#160;como&#160;una&#160;manera&#160;<br/>
-de&#160;estar-ser del&#160;celoso.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p179 #1
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 179&#160;<br/>
-LOS&#160;CELOS&#160;<br/>
-.La&#160;inquietud&#160;(2)&#160;<br/>
-Comparada&#160;con&#160;el&#160;recelo,&#160;la&#160;inquietud&#160;conserva&#160;también&#160;una&#160;posición&#160;genérica,&#160;puesto&#160;que&#160;el&#160;recelo&#160;no&#160;<br/>
-es&#160;más&#160;que&#160;una&#160;fase&#160;efímera&#160;de&#160;los&#160;celos&#160;o&#160;de&#160;la&#160;inquietud,&#160;aquella&#160;que&#160;se&#160;perfila&#160;la&#160;sombra&#160;del&#160;&#160;rival.&#160;<br/>
-Por&#160;&#160;consiguiente,&#160;&#160;desde&#160;&#160;el&#160;&#160;punto&#160;&#160;de&#160;&#160;vista&#160;&#160;de&#160;&#160;la&#160;&#160;sintaxis&#160;&#160;la&#160;&#160;inquietud&#160;&#160;rige&#160;&#160;toda&#160;&#160;la&#160;&#160;cadena&#160;&#160;y&#160;&#160;se&#160;&#160;traduce&#160;<br/>
-pasajeramente,&#160;ya&#160;sea&#160;por&#160;recelo,&#160;cuando&#160;el&#160;rival&#160;se&#160;manifiesta,&#160;o&#160;bien&#160;por&#160;el&#160;temor,&#160;cuando&#160;el&#160;evento&#160;<br/>
-disfórico&#160;es&#160;esperado.&#160;<br/>
-La&#160;&#160;inquietud&#160;&#160;puede&#160;&#160;injertarse&#160;&#160;particularmente,&#160;&#160;tanto&#160;&#160;en&#160;&#160;la&#160;&#160;espera&#160;&#160;del&#160;&#160;acontecimiento&#160;<br/>
-propiamente&#160;&#160;dicho.&#160;&#160;En&#160;&#160;ese&#160;&#160;sentido&#160;&#160;hace&#160;&#160;revivir&#160;&#160;al&#160;&#160;sujeto&#160;&#160;apasionado&#160;&#160;el&#160;&#160;estremecimiento&#160;&#160;fórico&#160;<br/>
-fundamental,&#160;aquel&#160;que&#160;engendra&#160;el&#160;“sentir”&#160;mínimo.&#160;Además,&#160;si&#160;la&#160;agitación&#160;entre&#160;euforia&#160;y&#160;disforia&#160;<br/>
-impide&#160;&#160;al&#160;&#160;sujeto&#160;&#160;inquieto&#160;&#160;la&#160;&#160;polarización&#160;&#160;que&#160;&#160;lo&#160;&#160;haría&#160;&#160;un&#160;&#160;verdadero&#160;&#160;sujeto&#160;&#160;de&#160;&#160;búsqueda,&#160;&#160;por&#160;&#160;una&#160;<br/>
-regresión&#160;&#160;en&#160;&#160;el&#160;&#160;recorrido&#160;&#160;generativo&#160;&#160;lo&#160;&#160;hace&#160;&#160;volver&#160;&#160;a&#160;&#160;la&#160;&#160;tensividad&#160;&#160;fórica,&#160;&#160;anterior&#160;&#160;a&#160;&#160;la&#160;<br/>
-categorización.&#160;La&#160;&#160;oscilación,&#160;&#160;en&#160;&#160;efecto,&#160;&#160;no&#160;&#160;puede&#160;&#160;ser&#160;&#160;interpretada&#160;&#160;como&#160;&#160;un&#160;&#160;recorrido&#160;&#160;entre&#160;&#160;dos&#160;<br/>
-posiciones&#160;extremas:&#160;el&#160;inquieto&#160;no&#160;es&#160;un&#160;ciclotímico;&#160;es&#160;más&#160;bien,&#160;una&#160;indecisión&#160;perpetua&#160;dentro&#160;de&#160;<br/>
-una&#160;figura&#160;mixta&#160;que&#160;no&#160;llega&#160;a&#160;fijar&#160;sus&#160;términos.&#160;Por&#160;eso&#160;el&#160;inquieto&#160;puede&#160;ser&#160;comprendido&#160;como&#160;un&#160;<br/>
-sujeto sumergido en las&#160;modulaciones&#160;tensivas.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
-## p179
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
-p. 179<br/>
-LOS&#160;CELOS<br/>
-La&#160;inquietud&#160;(3)&#160;<br/>
-El&#160;&#160;sujeto&#160;&#160;inquieto&#160;&#160;podría&#160;&#160;pasar&#160;&#160;por&#160;&#160;prototipo&#160;&#160;del&#160;&#160;sujeto&#160;&#160;apasionado,&#160;&#160;ya&#160;&#160;que&#160;&#160;a&#160;&#160;falta&#160;&#160;de&#160;&#160;poder&#160;<br/>
-recorrer&#160;posiciones&#160;discontinuas&#160;dentro&#160;de&#160;las&#160;categorías&#160;modales&#160;–en&#160;el&#160;seno&#160;de&#160;las&#160;cuales&#160;no&#160;puede&#160;<br/>
-más&#160;que&#160;“oscilar”-&#160;el&#160;único&#160;recorrido&#160;que&#160;se&#160;le&#160;ofrece&#160;es&#160;un&#160;recorrido&#160;de&#160;una&#160;modalización&#160;a&#160;la&#160;otra,&#160;es&#160;<br/>
-decir,&#160;&#160;por&#160;&#160;el&#160;&#160;interior&#160;&#160;de&#160;&#160;los&#160;&#160;dispositivos&#160;&#160;modales.&#160;&#160;La&#160;&#160;inquietud,&#160;&#160;al&#160;&#160;impedir&#160;&#160;al&#160;&#160;sujeto&#160;&#160;las&#160;<br/>
-transformaciones&#160;discontinuas&#160;&#160;que&#160;&#160;ofrecen&#160;&#160;las&#160;&#160;categorías&#160;&#160;modales,&#160;&#160;lo&#160;&#160;predispone&#160;&#160;para&#160;&#160;plegarse&#160;&#160;a&#160;&#160;la&#160;<br/>
-sintaxis&#160;intermodal&#160;dentro&#160;&#160;de&#160;&#160;los&#160;&#160;dispositivos&#160;&#160;pasionales.&#160;&#160;El&#160;&#160;inquieto&#160;&#160;sería&#160;&#160;también&#160;&#160;un&#160;&#160;prototipo&#160;&#160;del&#160;<br/>
-sujeto&#160;&#160;apasionado&#160;&#160;e&#160;otro&#160;sentido,&#160;complementario&#160;del&#160;precedente.&#160;En&#160;efecto,&#160;,&#160;si&#160;se&#160;trata&#160;de&#160;identificar&#160;<br/>
-su&#160;dispositivo&#160;modal&#160;específico&#160;o&#160;su&#160;recorrido&#160;existencial,&#160;no&#160;se&#160;llega&#160;a&#160;él:&#160;el&#160;querer,&#160;el&#160;saber,&#160;el&#160;poder&#160;y&#160;<br/>
-el&#160;&#160;deber&#160;&#160;pueden&#160;&#160;igualmente&#160;&#160;fundar&#160;&#160;la&#160;&#160;inquietud;&#160;&#160;los&#160;&#160;sujetos&#160;&#160;realizados,&#160;&#160;virtualizados,&#160;&#160;actualizados&#160;&#160;y&#160;<br/>
-potencializados&#160;son&#160;todos&#160;susceptibles&#160;de&#160;estar-ser inquietos&#160;por razones&#160;diferentes.&#160;<br/>
-…&#160;<br/>
 <hr/>
 </body>
 </html>
@@ -2799,52 +1846,6 @@ producto&#160;&#160;de&#160;&#160;desembragues&#160;&#160;localizados,&#160;&#16
 <br />
 <br />
 
-## p58-59
-<!DOCTYPE html><html>
-<head>
-<title></title>
-<style type="text/css">
-<!--
-.xflip {
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: fliph;
-}
-.yflip {
-    -moz-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: flipv;
-}
-.xyflip {
-    -moz-transform: scaleX(-1) scaleY(-1);
-    -webkit-transform: scaleX(-1) scaleY(-1);
-    -o-transform: scaleX(-1) scaleY(-1);
-    transform: scaleX(-1) scaleY(-1);
-    filter: fliph + flipv;
-}
--->
-</style>
-</head>
-<body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
-p. 58-59&#160;<br/>
-<b>LA&#160;EPISTEMOLOGÍA&#160;DE&#160;LAS&#160;PASIONES&#160;DISPOSITIVOS&#160;</b><br/>
-<b>MODALES:&#160;DEL&#160;DISPOSITIVO&#160;A&#160;LA&#160;DISPOSICIÓN.&#160;</b><br/>
-<b>El&#160;excedente&#160;pasional&#160;</b><br/>
-Si&#160;nos&#160;contentáramos&#160;con&#160;ello,&#160;el&#160;universo&#160;pasional&#160;sería&#160;coextensivo&#160;del&#160;universo&#160;modal&#160;y&#160;no&#160;habría&#160;razón&#160;<br/>
-para&#160;distinguirlo&#160;y,&#160;a&#160;<i>fortiori</i>,&#160;para&#160;intentar&#160;dilucidar&#160;los&#160;principios&#160;de&#160;la&#160;articulación&#160;entre&#160;ambos.&#160;Ahora&#160;bien,&#160;incluso&#160;<br/>cuando&#160;la&#160;pasión&#160;es&#160;parcialmente&#160;traducible&#160;como&#160;“competencia&#160;para&#160;hacer”,&#160;ésta&#160;no&#160;agota&#160;y&#160;jamás&#160;explica&#160;por&#160;sí&#160;sola&#160;<br/>el&#160;efecto&#160;pasional.&#160;Por&#160;ejemplo&#160;la&#160;“impulsividad”&#160;puede&#160;ser&#160;traducida&#160;como&#160;una&#160;cierta&#160;asociación&#160;entre&#160;<i>querer-hacer&#160;y&#160;<br/>poder-&#160;hacer&#160;</i>…pero&#160;una&#160;pasión&#160;como&#160;ésta&#160;presenta&#160;un&#160;“excedente”&#160;modal&#160;que&#160;aparece&#160;en&#160;superficie&#160;bajo&#160;la&#160;forma&#160;del&#160;<br/>“intensivo”y&#160;del&#160;“incoativo”&#160;;&#160;lo&#160;que&#160;caracteriza&#160;al&#160;impulsivo&#160;es,&#160;más&#160;bien,&#160;una&#160;manera&#160;de&#160;ser&#160;o&#160;estar&#160;al&#160;hacer…En&#160;<br/>efecto,&#160;si&#160;se&#160;considera&#160;únicamente&#160;una&#160;“conducta”&#160;impulsiva,&#160;el&#160;doble&#160;rasgo&#160;“intensivoíncoativo”&#160;se&#160;presenta&#160;como&#160;<br/>una&#160;simple&#160;sobredeterminación&#160;accidental&#160;de&#160;la&#160;competencia&#160;modal&#160;de&#160;base.&#160;Pero&#160;si,&#160;por&#160;otra&#160;parte,&#160;se&#160;caracteriza&#160;al&#160;<br/>sujeto&#160;como&#160;“impulsivo”,&#160;entonces&#160;se&#160;considera&#160;que&#160;esta&#160;sobredeterminación&#160;<i>rige&#160;y&#160;patemiza&#160;</i>a&#160;la&#160;competencia&#160;modal&#160;<br/>y&#160;&#160;asegura&#160;&#160;su&#160;&#160;actualización&#160;&#160;en&#160;&#160;cualquier&#160;&#160;circunstancia…la&#160;&#160;configuración&#160;&#160;pasional&#160;&#160;comprenderá&#160;&#160;un&#160;&#160;principio&#160;&#160;rector,&#160;<br/>parcialmente&#160;independiente&#160;de&#160;las&#160;modalizaciones&#160;propiamente&#160;dichas, en especial&#160;las&#160;modalizaciones&#160;del&#160;hacer.&#160;<br/>
-<hr/>
-</body>
-</html>
-
-<hr />
-<br />
-<br />
-
 ## p58-9
 <!DOCTYPE html><html>
 <head>
@@ -2883,6 +1884,52 @@ p.58-9&#160;<br/>
 <b>El&#160;ordenamiento&#160;modal&#160;del&#160;estar-ser.&#160;</b><br/>
 La&#160;mayoría&#160;de&#160;las&#160;configuraciones&#160;pasionales&#160;se&#160;encuentran&#160;&#160;definidas&#160;en&#160;&#160;&#160;los&#160;diccionarios&#160;de&#160;lengua&#160;&#160;como&#160;<br/>
 “disposiciones&#160;para”,&#160;“sentimiento&#160;que&#160;lleva&#160;a”,&#160;“estado&#160;interior&#160;del&#160;que&#160;se&#160;inclina&#160;hacia”&#160;y,&#160;por&#160;su&#160;lado,&#160;la&#160;descripción&#160;<br/>de&#160;la&#160;“disposición”&#160;o&#160;de&#160;la&#160;“inclinación”&#160;se&#160;hace&#160;en&#160;términos&#160;de&#160;comportamiento&#160;o&#160;de&#160;acción.&#160;Si&#160;la&#160;disposición&#160;o&#160;la&#160;<br/>inclinación&#160;desemboca&#160;en&#160;el&#160;“hacer”,&#160;podemos&#160;suponer&#160;que&#160;comprenden&#160;cierto&#160;ordenamiento&#160;del&#160;“estar-ser”&#160;con&#160;vistas&#160;<br/>al&#160;“hacer”.&#160;Pero&#160;plantear&#160;en&#160;estos&#160;términos&#160;la&#160;cuestión&#160;de&#160;la&#160;eficacia&#160;de&#160;la&#160;pasión&#160;equivaldría&#160;a&#160;considerarla&#160;como&#160;una&#160;<br/>simple&#160;competencia, cuyas&#160;modalizaciones&#160;producirán&#160;<i>ipso facto&#160;</i>un efecto&#160;de&#160;sentido&#160;pasional.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p58-59
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
+p. 58-59&#160;<br/>
+<b>LA&#160;EPISTEMOLOGÍA&#160;DE&#160;LAS&#160;PASIONES&#160;DISPOSITIVOS&#160;</b><br/>
+<b>MODALES:&#160;DEL&#160;DISPOSITIVO&#160;A&#160;LA&#160;DISPOSICIÓN.&#160;</b><br/>
+<b>El&#160;excedente&#160;pasional&#160;</b><br/>
+Si&#160;nos&#160;contentáramos&#160;con&#160;ello,&#160;el&#160;universo&#160;pasional&#160;sería&#160;coextensivo&#160;del&#160;universo&#160;modal&#160;y&#160;no&#160;habría&#160;razón&#160;<br/>
+para&#160;distinguirlo&#160;y,&#160;a&#160;<i>fortiori</i>,&#160;para&#160;intentar&#160;dilucidar&#160;los&#160;principios&#160;de&#160;la&#160;articulación&#160;entre&#160;ambos.&#160;Ahora&#160;bien,&#160;incluso&#160;<br/>cuando&#160;la&#160;pasión&#160;es&#160;parcialmente&#160;traducible&#160;como&#160;“competencia&#160;para&#160;hacer”,&#160;ésta&#160;no&#160;agota&#160;y&#160;jamás&#160;explica&#160;por&#160;sí&#160;sola&#160;<br/>el&#160;efecto&#160;pasional.&#160;Por&#160;ejemplo&#160;la&#160;“impulsividad”&#160;puede&#160;ser&#160;traducida&#160;como&#160;una&#160;cierta&#160;asociación&#160;entre&#160;<i>querer-hacer&#160;y&#160;<br/>poder-&#160;hacer&#160;</i>…pero&#160;una&#160;pasión&#160;como&#160;ésta&#160;presenta&#160;un&#160;“excedente”&#160;modal&#160;que&#160;aparece&#160;en&#160;superficie&#160;bajo&#160;la&#160;forma&#160;del&#160;<br/>“intensivo”y&#160;del&#160;“incoativo”&#160;;&#160;lo&#160;que&#160;caracteriza&#160;al&#160;impulsivo&#160;es,&#160;más&#160;bien,&#160;una&#160;manera&#160;de&#160;ser&#160;o&#160;estar&#160;al&#160;hacer…En&#160;<br/>efecto,&#160;si&#160;se&#160;considera&#160;únicamente&#160;una&#160;“conducta”&#160;impulsiva,&#160;el&#160;doble&#160;rasgo&#160;“intensivoíncoativo”&#160;se&#160;presenta&#160;como&#160;<br/>una&#160;simple&#160;sobredeterminación&#160;accidental&#160;de&#160;la&#160;competencia&#160;modal&#160;de&#160;base.&#160;Pero&#160;si,&#160;por&#160;otra&#160;parte,&#160;se&#160;caracteriza&#160;al&#160;<br/>sujeto&#160;como&#160;“impulsivo”,&#160;entonces&#160;se&#160;considera&#160;que&#160;esta&#160;sobredeterminación&#160;<i>rige&#160;y&#160;patemiza&#160;</i>a&#160;la&#160;competencia&#160;modal&#160;<br/>y&#160;&#160;asegura&#160;&#160;su&#160;&#160;actualización&#160;&#160;en&#160;&#160;cualquier&#160;&#160;circunstancia…la&#160;&#160;configuración&#160;&#160;pasional&#160;&#160;comprenderá&#160;&#160;un&#160;&#160;principio&#160;&#160;rector,&#160;<br/>parcialmente&#160;independiente&#160;de&#160;las&#160;modalizaciones&#160;propiamente&#160;dichas, en especial&#160;las&#160;modalizaciones&#160;del&#160;hacer.&#160;<br/>
 <hr/>
 </body>
 </html>
@@ -3033,7 +2080,7 @@ suspensión&#160;de&#160;la&#160;pura&#160;racionalidad narrativa&#160;y cognosc
 <br />
 <br />
 
-## p9
+## p159 #1
 <!DOCTYPE html><html>
 <head>
 <title></title>
@@ -3064,19 +2111,972 @@ suspensión&#160;de&#160;la&#160;pura&#160;racionalidad narrativa&#160;y cognosc
 </style>
 </head>
 <body>
-<a name=1></a><b>GREIMAS&#160;A.&#160;J.&#160;y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones&#160;(De&#160;los&#160;estados&#160;de&#160;cosas&#160;a&#160;los&#160;</i><br/>
-<i>estados&#160;de&#160;ánimo)</i>.&#160;México&#160;Benemérita&#160;Universidad&#160;Autónoma&#160;de&#160;Puebla-Siglo&#160;XXI&#160;Editores.&#160;<br/>
-p.9<br/><b>Introducción&#160;<br/></b>La&#160;concepción&#160;de&#160;un&#160;actante&#160;despojado&#160;de&#160;su&#160;envoltura&#160;psicológica&#160;y&#160;definido&#160;únicamente&#160;por&#160;su&#160;hacer&#160;<br/>
-es&#160;la&#160;condición&#160;<i>sine&#160;qua&#160;non&#160;</i>para&#160;el&#160;desarrollo&#160;de&#160;la&#160;semiótica&#160;de&#160;la&#160;acción.&#160;<br/>
-p.12&#160;<br/>
-Para&#160;la&#160;semiótica,&#160;lo&#160;que&#160;está&#160;en&#160;juego&#160;consiste&#160;en&#160;afirmar&#160;la&#160;presencia&#160;<i>in&#160;absentia&#160;</i>que&#160;es&#160;la&#160;existencia&#160;<br/>
-semiótica,&#160;como&#160;objeto&#160;de&#160;su&#160;discurso&#160;y&#160;como&#160;condición&#160;de&#160;su&#160;actividad&#160;de&#160;construcción&#160;teórica…Por&#160;<br/>
-lo&#160;tanto,&#160;el&#160;discurso&#160;semiótico&#160;será&#160;la&#160;descripción&#160;de&#160;las&#160;estructuras&#160;inmanentes&#160;y&#160;la&#160;construcción&#160;de&#160;los&#160;<br/>
-simulacros&#160;destinados&#160;a&#160;dar&#160;cuenta&#160;de&#160;las&#160;condiciones&#160;y&#160;precondiciones&#160;de&#160;la&#160;manifestación&#160;del&#160;sentido&#160;<br/>
-y,&#160;en cierta&#160;medida, del&#160;“ser”…&#160;<br/>
-Como&#160;un&#160;flujo&#160;coagulante&#160;del&#160;sentido,&#160;con&#160;su&#160;espesamiento&#160;continuo,&#160;a&#160;partir&#160;de&#160;la&#160;confusión&#160;original&#160;y&#160;<br/>
-“potencial”,&#160;&#160;para&#160;&#160;llegar,&#160;&#160;por&#160;&#160;medio&#160;&#160;de&#160;&#160;su&#160;&#160;“virtualización”&#160;&#160;y&#160;&#160;“actualización”,&#160;&#160;al&#160;&#160;estudio&#160;&#160;de&#160;&#160;la&#160;<br/>
-“realización”,&#160;pasando&#160;así&#160;de&#160;las&#160;precondiciones&#160;epistemológicas&#160;a&#160;las&#160;manifestaciones&#160;discursivas.&#160;<br/>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>P. 159&#160;<br/>
+LOS&#160;CELOS&#160;<br/>
+El&#160;&#160;primer&#160;&#160;objetivo&#160;&#160;de&#160;&#160;un&#160;&#160;estudio&#160;&#160;consagrado&#160;&#160;a&#160;&#160;los&#160;&#160;celos&#160;&#160;era&#160;&#160;disponer,&#160;&#160;junto&#160;&#160;con&#160;&#160;pasión&#160;&#160;que&#160;&#160;en&#160;&#160;un&#160;<br/>
+primer&#160;&#160;acercamiento&#160;&#160;podría&#160;&#160;pasar&#160;&#160;como&#160;&#160;una&#160;&#160;“pasión&#160;&#160;de&#160;&#160;objeto”&#160;&#160;–la&#160;&#160;avaricia-,&#160;&#160;de&#160;&#160;una&#160;&#160;pasión&#160;<br/>
+intersubjetiva&#160;que&#160;convirtiera,&#160;por&#160;lo&#160;menos&#160;potencialmente,&#160;tres&#160;actores:&#160;el&#160;celoso,&#160;el&#160;objeto,&#160;el&#160;rival.&#160;<br/>
+Ciertamente,&#160;la&#160;avaricia&#160;se&#160;reveló&#160;intersubjetiva,&#160;al&#160;menos&#160;implícitamente,&#160;y&#160;sobre&#160;todo&#160;en&#160;el&#160;momento&#160;<br/>
+de&#160;la&#160;moralización.&#160;Pero&#160;los&#160;celos&#160;ofrecen&#160;la&#160;ventaja&#160;de&#160;hacer&#160;explícita&#160;una&#160;escena&#160;pasional&#160;con&#160;varios&#160;<br/>
+roles,&#160;&#160;un&#160;&#160;entrelazamiento&#160;&#160;de&#160;&#160;estrategias,&#160;&#160;una&#160;&#160;verdadera&#160;&#160;interacción&#160;&#160;dotada&#160;&#160;de&#160;&#160;una&#160;&#160;historia&#160;&#160;y&#160;&#160;de&#160;&#160;un&#160;<br/>
+devenir,&#160;desde&#160;la&#160;manifestación lexical&#160;de&#160;la&#160;configuración,&#160;y a&#160;<i>fortiori&#160;</i>en el&#160;discurso.&#160;<br/>
+Por&#160;cierto,&#160;en&#160;el&#160;recorrido&#160;discursivo&#160;del&#160;avaro,&#160;las&#160;relaciones&#160;intersubjetivas&#160;sólo&#160;aparecen&#160;en&#160;<br/>
+el&#160;momento&#160;de&#160;la&#160;evaluación;&#160;desde&#160;luego&#160;que&#160;en&#160;profundidad&#160;son&#160;el&#160;resorte&#160;del&#160;“flujo&#160;circulante&#160;del&#160;<br/>
+valor”,&#160;pero&#160;en&#160;el&#160;nivel&#160;discursivo&#160;tienden&#160;a&#160;borrarse&#160;en&#160;provecho&#160;de&#160;las&#160;relaciones&#160;de&#160;objeto;&#160;es&#160;pues&#160;<br/>
+solamente&#160;&#160;a&#160;&#160;la&#160;&#160;luz&#160;&#160;de&#160;&#160;la&#160;&#160;moralización&#160;&#160;como&#160;&#160;nos&#160;&#160;damos&#160;&#160;cuenta&#160;&#160;de&#160;&#160;que&#160;&#160;las&#160;&#160;riquezas&#160;&#160;acumuladas&#160;&#160;y&#160;<br/>
+retenidas&#160;&#160;son&#160;&#160;a&#160;&#160;expensas&#160;&#160;del&#160;&#160;otro.&#160;&#160;En&#160;&#160;cambio,&#160;&#160;los&#160;&#160;celos&#160;&#160;aparecen&#160;&#160;de&#160;&#160;entrada&#160;&#160;sobre&#160;&#160;el&#160;&#160;fondo&#160;&#160;de&#160;&#160;una&#160;<br/>
+relación&#160;&#160;intersubjetiva&#160;&#160;compleja&#160;&#160;y&#160;&#160;variable,&#160;&#160;presente&#160;&#160;por&#160;&#160;definición&#160;&#160;a&#160;&#160;todo&#160;&#160;lo&#160;&#160;largo&#160;&#160;del&#160;&#160;recorrido&#160;<br/>
+pasional:&#160;&#160;el&#160;&#160;temor&#160;&#160;de&#160;&#160;perder&#160;&#160;el&#160;&#160;objeto&#160;&#160;no&#160;&#160;se&#160;&#160;comprende&#160;&#160;aquí&#160;&#160;más&#160;&#160;que&#160;&#160;por&#160;&#160;la&#160;&#160;presencia&#160;&#160;de&#160;&#160;un&#160;&#160;rival&#160;<br/>
+potencial&#160;&#160;o&#160;&#160;imaginario,&#160;&#160;y&#160;&#160;el&#160;&#160;temor&#160;&#160;del&#160;&#160;rival&#160;&#160;nace&#160;&#160;de&#160;&#160;la&#160;&#160;presencia&#160;&#160;del&#160;&#160;objeto&#160;&#160;que&#160;&#160;tiene&#160;&#160;la&#160;&#160;función&#160;&#160;de&#160;<br/>
+desafío.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p159 #2
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 159 (2)&#160;<br/>
+LOS&#160;CELOS&#160;<br/>
+Apego&#160;y&#160;rivalidad&#160;2&#160;<br/>
+Pero&#160;hay&#160;que&#160;ver&#160;bien&#160;que&#160;estas&#160;dos&#160;configuraciones&#160;están,&#160;si&#160;no&#160;muy&#160;próximas&#160;entre&#160;sí,&#160;por&#160;lo&#160;<br/>
+menos&#160;cuidadosamente&#160;articuladas&#160;en&#160;los&#160;celos.&#160;En&#160;una&#160;especie&#160;de&#160;presuposición&#160;alternada,&#160;el&#160;apego&#160;se&#160;<br/>
+refuerza&#160;con&#160;la&#160;rivalidad&#160;y&#160;la&#160;rivalidad&#160;se&#160;agudiza&#160;con&#160;el&#160;apego&#160;que&#160;la&#160;motiva.&#160;La&#160;consecuencia&#160;de&#160;esa&#160;<br/>
+articulación&#160;de&#160;dos&#160;configuraciones&#160;en&#160;gran&#160;parte&#160;autónomas&#160;no&#160;es&#160;nada&#160;despreciable;&#160;por&#160;una&#160;parte,&#160;la&#160;<br/>
+rivalidad&#160;&#160;nunca&#160;&#160;será,&#160;&#160;para&#160;&#160;el&#160;&#160;celoso,&#160;&#160;alegre&#160;&#160;y&#160;&#160;conquistadora,&#160;&#160;sino&#160;&#160;que&#160;&#160;aparecerá&#160;&#160;más&#160;&#160;bien&#160;&#160;como&#160;<br/>
+dolorosa&#160;y&#160;&#160;amarga,&#160;&#160;teniendo&#160;&#160;como&#160;&#160;perspectiva&#160;&#160;la&#160;&#160;pérdida&#160;&#160;del&#160;&#160;objeto;&#160;&#160;por&#160;&#160;la&#160;&#160;otro,&#160;&#160;el&#160;&#160;apego&#160;&#160;será&#160;<br/>
+profundamente&#160;inquieto&#160;y&#160;preocupado,&#160;ya&#160;que&#160;la&#160;amenaza&#160;del&#160;rival&#160;está&#160;latente:&#160;por&#160;ejemplo,&#160;puesto&#160;que&#160;<br/>
+lo&#160;&#160;único&#160;&#160;que&#160;&#160;cuenta&#160;&#160;es&#160;&#160;la&#160;&#160;relación&#160;&#160;con&#160;&#160;el&#160;&#160;ser&#160;&#160;amado,&#160;&#160;una&#160;&#160;inquietud&#160;&#160;guarda&#160;&#160;la&#160;&#160;huella&#160;&#160;de&#160;&#160;la&#160;&#160;actividad&#160;<br/>
+amenazadora&#160;y&#160;más&#160;o&#160;menos&#160;imaginaria&#160;de&#160;un&#160;antisujeto.&#160;…Asimismo,&#160;el&#160;celoso&#160;es&#160;un&#160;sujeto&#160;acosado&#160;<br/>
+entre&#160;dos&#160;relaciones&#160;que&#160;lo&#160;solicitan&#160;cada&#160;una&#160;por&#160;completo,&#160;pero&#160;a&#160;las&#160;cuales&#160;jamás&#160;puede&#160;consagrarse&#160;<br/>
+exclusivamente:&#160;preocupado&#160;por&#160;su&#160;apego&#160;cuando&#160;lucha,&#160;está,&#160;a&#160;la&#160;inversa,&#160;obsesionado&#160;por&#160;la&#160;rivalidad&#160;<br/>
+cuando&#160;ama.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p159
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 159 (2)&#160;<br/>
+LOS&#160;CELOS&#160;<br/>
+Señalamos&#160;aquí&#160;desde&#160;ahora&#160;que&#160;el&#160;recorrido&#160;pasional&#160;es&#160;aquí&#160;función&#160;de&#160;relaciones&#160;duales&#160;entre&#160;<br/>
+tres&#160;actantes&#160;y&#160;el&#160;conjunto&#160;está&#160;orientado&#160;por&#160;la&#160;perspectiva&#160;adoptada&#160;por&#160;el&#160;celoso;&#160;los&#160;celos&#160;en&#160;este&#160;<br/>
+sentido,&#160;&#160;pueden&#160;&#160;ser&#160;&#160;tanto&#160;&#160;un&#160;&#160;desamparo&#160;&#160;y&#160;&#160;un&#160;&#160;<i>sufrimiento&#160;&#160;</i>como&#160;&#160;un&#160;&#160;temor&#160;&#160;<i>y&#160;&#160;una&#160;&#160;</i>angustia,&#160;&#160;según&#160;&#160;si&#160;&#160;el&#160;<br/>
+acontecimiento&#160;decisivo&#160;es&#160;anterior&#160;o&#160;posterior&#160;a&#160;la&#160;crisis&#160;pasional.&#160;Si&#160;el&#160;acontecimiento&#160;–la&#160;junción&#160;del&#160;<br/>
+rival&#160;&#160;con&#160;&#160;el&#160;&#160;objeto-&#160;&#160;es&#160;&#160;tomado&#160;&#160;antes&#160;&#160;de&#160;&#160;su&#160;&#160;advenimiento,&#160;&#160;la&#160;&#160;relación&#160;&#160;es&#160;&#160;de&#160;&#160;<i>rivalidad&#160;&#160;</i>-S1/S2-&#160;&#160;pasa&#160;&#160;al&#160;<br/>
+primer&#160;plano&#160;y&#160;suscita&#160;el&#160;temor:&#160;se&#160;trata&#160;entonces&#160;de&#160;vigilar&#160;al&#160;otro,&#160;de&#160;desbaratar&#160;sus&#160;acercamientos,&#160;de&#160;<br/>
+desviarlo&#160;del&#160;objeto,&#160;de&#160;acaparar&#160;este&#160;último&#160;para&#160;excluir&#160;al&#160;rival.&#160;Si&#160;el&#160;acontecimiento&#160;es&#160;tomado&#160;una&#160;<br/>
+vez&#160;realizado,&#160;es&#160;evidente&#160;que&#160;para&#160;el&#160;celoso,&#160;a&#160;menos&#160;que&#160;busque&#160;vengarse&#160;no&#160;hay&#160;mucho&#160;que&#160;pueda&#160;<br/>
+hacer&#160;con&#160;el&#160;rival;&#160;en&#160;cambio,&#160;la&#160;relación&#160;de&#160;<i>apego&#160;</i>–S1/S3-&#160;pasa&#160;al&#160;primer&#160;plano.&#160;el&#160;celoso&#160;se&#160;vuelve&#160;<br/>
+entonces&#160;&#160;hacia&#160;&#160;el&#160;&#160;objeto,&#160;&#160;sobre&#160;&#160;el&#160;&#160;cual&#160;&#160;se&#160;&#160;pregunta&#160;&#160;a&#160;&#160;quién&#160;&#160;ama&#160;&#160;verdaderamente&#160;&#160;y&#160;&#160;hasta&#160;&#160;qué&#160;<br/>
+punto&#160;puede&#160;confiar&#160;en&#160;él.&#160;Es&#160;sólo&#160;entonces&#160;cuando&#160;el&#160;sufrimiento&#160;se&#160;nutre&#160;de&#160;variaciones&#160;fiduciarias&#160;y&#160;<br/>
+epistémicas.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p160
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 160&#160;<br/>
+LOS&#160;CELOS&#160;<br/>
+Apegos&#160;y&#160;rivalidad&#160;<br/>
+Un&#160;&#160;primer&#160;&#160;acercamiento,&#160;&#160;inspirado&#160;&#160;por&#160;&#160;la&#160;&#160;semántica&#160;&#160;lexical,&#160;&#160;consistirá&#160;&#160;en&#160;&#160;dejarse&#160;&#160;guiar&#160;&#160;un&#160;&#160;momento&#160;<br/>
+por&#160;las&#160;definiciones&#160;del&#160;diccionario.&#160;Para&#160;tener&#160;una&#160;primera&#160;idea&#160;de&#160;lo&#160;que&#160;son&#160;los&#160;celos,&#160;parecería&#160;útil&#160;<br/>
+saber&#160;a&#160;qué&#160;configuraciones&#160;más&#160;extensas&#160;pertenecen.&#160;A&#160;la&#160;vista&#160;de&#160;las&#160;definiciones,&#160;de&#160;los&#160;correlatos,&#160;de&#160;<br/>
+los&#160;sinónimos&#160;y&#160;de&#160;los&#160;antónimos,&#160;parece&#160;que&#160;los&#160;celos&#160;se&#160;ubican&#160;en&#160;la&#160;intersección&#160;de&#160;la&#160;configuración&#160;<br/>
+del&#160;<i>apego&#160;</i>y&#160;de&#160;la&#160;<i>rivalidad</i>,&#160;que&#160;corresponden&#160;respectivamente&#160;a&#160;la&#160;relación&#160;entre&#160;el&#160;celoso&#160;y&#160;su&#160;objeto&#160;<br/>
+–&#160;S1/O,S3-&#160;y a&#160;la&#160;relación entre&#160;el&#160;celoso y su rival&#160;–S1/S2.&#160;<br/>
+Todas&#160;&#160;las&#160;&#160;definiciones&#160;&#160;de&#160;&#160;los&#160;&#160;celos&#160;&#160;dan&#160;&#160;cuenta,&#160;&#160;directa&#160;&#160;o&#160;&#160;indirectamente,&#160;&#160;de&#160;&#160;un&#160;&#160;antisujeo&#160;&#160;que&#160;<br/>
+amenaza&#160;&#160;con&#160;&#160;hacer&#160;&#160;estragos&#160;&#160;o&#160;&#160;que&#160;&#160;ya&#160;&#160;los&#160;&#160;ha&#160;&#160;hecho.&#160;&#160;Por&#160;&#160;ejemplo,&#160;&#160;un&#160;&#160;antónimo&#160;&#160;como&#160;&#160;“bonachón”&#160;&#160;se&#160;<br/>
+glosa,&#160;&#160;entre&#160;&#160;otros,&#160;&#160;por&#160;&#160;“complaciente”,&#160;&#160;“inofensivo”,&#160;&#160;“pacífico”,&#160;&#160;lo&#160;&#160;que&#160;&#160;lleva&#160;&#160;a&#160;&#160;confirmar&#160;&#160;el&#160;&#160;carácter&#160;<br/>
+“combativo”&#160;&#160;“ofensivo”&#160;&#160;del&#160;&#160;celoso&#160;&#160;y,&#160;&#160;por&#160;&#160;lo&#160;&#160;tanto,&#160;&#160;la&#160;&#160;presencia&#160;&#160;al&#160;&#160;menos&#160;&#160;potencial&#160;&#160;de&#160;&#160;un&#160;&#160;rival&#160;&#160;en&#160;&#160;su&#160;<br/>
+territorio.&#160;&#160;Además,&#160;&#160;el&#160;&#160;celoso&#160;&#160;es&#160;&#160;ante&#160;&#160;todo&#160;&#160;–y&#160;&#160;por&#160;&#160;su&#160;&#160;misma&#160;&#160;etimología-&#160;&#160;alguien&#160;&#160;“particularmente&#160;<br/>
+apegado&#160;&#160;a…”,&#160;&#160;que&#160;&#160;“depende&#160;&#160;absolutamente&#160;&#160;de&#160;&#160;…”,&#160;&#160;y&#160;&#160;es&#160;&#160;por&#160;&#160;eso&#160;&#160;que&#160;&#160;los&#160;&#160;celos&#160;&#160;remiten&#160;&#160;también&#160;&#160;al&#160;<br/>
+deseo,&#160;al&#160;&#160;celo&#160;&#160;y&#160;&#160;a&#160;&#160;la&#160;&#160;envidia.&#160;&#160;El&#160;&#160;apego&#160;&#160;está&#160;&#160;también&#160;&#160;presente&#160;&#160;en&#160;&#160;los&#160;&#160;antónimos,&#160;&#160;en&#160;&#160;negativa&#160;&#160;esta&#160;&#160;vez:&#160;<br/>
+“indiferente”&#160;se&#160;glosa&#160;como&#160;“insensible”&#160;o “apartado”, por&#160;ejemplo.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p161-162
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 161-162&#160;<br/>
+LOS&#160;CELOS&#160;<br/>
+□&#160;Rivalidad,&#160;antagonismo&#160;y&#160;competencia&#160;<br/>
+La&#160;&#160;“rivalidad”&#160;&#160;sería,&#160;&#160;según&#160;&#160;el&#160;&#160;diccionario&#160;&#160;Pettit&#160;&#160;Robert,&#160;&#160;la&#160;&#160;“situación&#160;&#160;de&#160;&#160;dos&#160;&#160;o&#160;&#160;más&#160;&#160;personas&#160;&#160;que&#160;&#160;se&#160;<br/>
+disputan&#160;algo”&#160;(especialmente,&#160;el&#160;primer&#160;lugar,&#160;el&#160;primer&#160;puesto).&#160;“Situación”&#160;remite&#160;a&#160;un&#160;dispositivo&#160;<br/>
+actancial&#160;&#160;y&#160;&#160;narrativo,&#160;&#160;independientemente&#160;&#160;de&#160;&#160;toda&#160;&#160;manifestación&#160;&#160;pasional;&#160;&#160;éste&#160;&#160;sería&#160;&#160;el&#160;&#160;núcleo&#160;<br/>
+sintáctico&#160;de&#160;&#160;toda&#160;&#160;la&#160;&#160;configuración.&#160;&#160;Se&#160;&#160;notará&#160;&#160;la&#160;&#160;existencia&#160;&#160;de&#160;&#160;una&#160;&#160;relación&#160;&#160;polémica&#160;&#160;arquetípica,&#160;<br/>
+eventualmente&#160;&#160;organizada&#160;&#160;alrededor&#160;&#160;de&#160;&#160;un&#160;&#160;objeto&#160;&#160;(el&#160;&#160;“algo”),&#160;&#160;pero&#160;&#160;más&#160;&#160;a&#160;&#160;menudo&#160;&#160;en&#160;&#160;torno&#160;&#160;a&#160;&#160;una&#160;<br/>
+calificación&#160;&#160;de&#160;&#160;los&#160;&#160;sujetos&#160;&#160;(la&#160;&#160;superioridad),&#160;&#160;que&#160;&#160;podría&#160;&#160;ser&#160;&#160;interpretada&#160;&#160;como&#160;&#160;el&#160;&#160;resultado&#160;&#160;de&#160;&#160;una&#160;<br/>
+comparación entre&#160;competencias&#160;modales.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p162
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 162&#160;<br/>
+LOS&#160;CELOS&#160;<br/>
+.&#160;La&#160;emulación&#160;<br/>
+La&#160;“emulación”,&#160;“sentimiento&#160;que&#160;lleva&#160;a&#160;imitar&#160;o&#160;a&#160;superar&#160;a&#160;alguien&#160;en&#160;mérito,&#160;en&#160;saber,&#160;en&#160;trabajo”&#160;<br/>
+es&#160;un antiguo sinónimo de&#160;“rivalidad”&#160;y de&#160;“celos”. La&#160;emulación aporta&#160;a&#160;la&#160;rivalidad una&#160;nueva&#160;<br/>
+especificación. Lejos&#160;de&#160;proseguir el&#160;mismo camino que&#160;el&#160;antagonismo y la&#160;competencia, en las&#160;que&#160;<br/>
+veíamos&#160;dibujarse&#160;un objeto, la&#160;emulación se&#160;focaliza&#160;en la&#160;comparación entre&#160;las&#160;competencias&#160;de&#160;S1&#160;<br/>
+y&#160;S2;&#160;esa&#160;competencia&#160;puede&#160;ser aprehendida&#160;tal&#160;cual, como&#160;<i>saber-hacer&#160;</i>o&#160;<i>poder-hacer&#160;</i>o por medio del&#160;<br/>
+juicio ético que&#160;la&#160;transforma&#160;en “merito”.&#160;Ya&#160;que&#160;es&#160;un objeto modal&#160;el&#160;objeto que&#160;emerge&#160;de&#160;la&#160;<br/>
+rivalidad,&#160;el&#160;antagonismo toma&#160;aquí&#160;por objetivo al&#160;ser&#160;mismo de&#160;los&#160;sujetos&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p163 #1
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><img src="File 60-1_1.png"/><br/>
+<img src="File 60-1_2.png"/><br/>
+<img src="File 60-1_3.png"/><br/>
+<img src="File 60-1_4.png"/><br/>
+<img src="File 60-1_5.png"/><br/>
+<img src="File 60-1_6.png"/><br/>
+<b>GREIMAS&#160;A.&#160;J. y&#160;J. FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica de&#160;las&#160;pasiones</i><br/>
+p. 163<br/>
+LOS&#160;CELOS<br/>
+.&#160;¿Desconfianza&#160;o&#160;defidencia?&#160;<br/>
+La&#160;&#160;desconfianza&#160;&#160;y&#160;&#160;la&#160;&#160;difidencia&#160;&#160;son&#160;&#160;componentes&#160;&#160;tanto&#160;&#160;del&#160;&#160;recelo&#160;&#160;y&#160;&#160;de&#160;&#160;la&#160;&#160;sospecha&#160;&#160;como&#160;&#160;del&#160;<br/>
+temor,&#160;pues&#160;&#160;explotan&#160;&#160;el&#160;&#160;componente&#160;&#160;fiduciario&#160;&#160;subyacente&#160;&#160;al&#160;&#160;apego…hay&#160;&#160;una&#160;&#160;difidencia&#160;&#160;presupuesta&#160;<br/>
+por&#160;los&#160;celos&#160;y&#160;que&#160;tiene&#160;su&#160;fuente&#160;el&#160;la&#160;rivalidad…respecto&#160;al&#160;adversario,&#160;que&#160;es&#160;necesaria&#160;pero&#160;no&#160;&#160;es&#160;<br/>
+específica&#160;de&#160;los&#160;celos&#160;en&#160;absoluto…Ella&#160;resulta,&#160;entonces,&#160;más&#160;precisamente&#160;de&#160;una&#160;perturbación&#160;de&#160;la&#160;<br/>
+confianza&#160;propia&#160;al&#160;apego…&#160;<br/>
+CONFIANZA&#160;<br/>
+DIFIDENCIA&#160;<br/>
+¿PREFIANZA?&#160;<br/>
+DESCONFIANZA<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p163
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
+p.&#160;163<br/>
+LOS&#160;CELOS<br/>
+·&#160;La&#160;envidia&#160;<br/>
+En&#160;&#160;las&#160;&#160;definiciones&#160;&#160;del&#160;&#160;diccionario&#160;&#160;encontramos&#160;&#160;dos&#160;&#160;formas&#160;&#160;de&#160;&#160;“envidia”:&#160;&#160;por&#160;&#160;un&#160;&#160;lado,&#160;&#160;es&#160;&#160;un&#160;<br/>
+“sentimiento&#160;de&#160;tristeza,&#160;de&#160;irritación&#160;o&#160;de&#160;odio&#160;que&#160;nos&#160;anima&#160;contra&#160;quien&#160;posee&#160;un&#160;bien&#160;que&#160;nosotros&#160;<br/>
+no&#160;&#160;tenemos”&#160;&#160;y,&#160;&#160;por&#160;&#160;otra,&#160;&#160;puede&#160;&#160;también&#160;&#160;entenderse&#160;&#160;como&#160;&#160;el&#160;&#160;“deseo&#160;&#160;de&#160;&#160;gozar&#160;&#160;de&#160;&#160;una&#160;&#160;ventaja,&#160;&#160;de&#160;<br/>
+un&#160;placer&#160;&#160;similar&#160;&#160;al&#160;&#160;del&#160;&#160;otro”.&#160;&#160;La&#160;&#160;configuración&#160;&#160;de&#160;&#160;la&#160;&#160;rivalidad&#160;&#160;parece&#160;&#160;deber&#160;&#160;ahora&#160;&#160;escoger&#160;&#160;entre&#160;&#160;la&#160;<br/>
+relación&#160;polémica&#160;y&#160;la&#160;relación&#160;de&#160;objeto.&#160;La&#160;particularidad&#160;de&#160;la&#160;envidia&#160;radica&#160;en&#160;no&#160;poder&#160;manifestar&#160;<br/>
+a&#160;la&#160;vez&#160;sino&#160;una&#160;sola&#160;de&#160;las&#160;dos&#160;relaciones…&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p164
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
+p.&#160;164<br/>
+LOS&#160;CELOS<br/>
+.&#160;Del&#160;recelo&#160;a&#160;los&#160;celos&#160;<br/>
+El&#160;recelo&#160;es&#160;un&#160;“sentimiento&#160;de&#160;desconfianza”,&#160;un&#160;“temor&#160;a&#160;ser&#160;eclipsado,&#160;hundido&#160;en&#160;la&#160;penumbra&#160;por&#160;<br/>
+alguien”.&#160;&#160;La&#160;&#160;particularidad&#160;&#160;del&#160;&#160;recelo&#160;&#160;salta&#160;&#160;a&#160;&#160;la&#160;&#160;vista&#160;&#160;cuando&#160;&#160;se&#160;&#160;le&#160;&#160;compara&#160;&#160;con&#160;&#160;la&#160;&#160;envidia&#160;&#160;y&#160;&#160;la&#160;<br/>
+emulación.&#160;De&#160;la&#160;envidia&#160;queda&#160;muy&#160;poco,&#160;ya&#160;que&#160;el&#160;objeto&#160;pasa&#160;a&#160;segundo&#160;plano&#160;y&#160;el&#160;deseo&#160;ya&#160;no&#160;es&#160;<br/>
+manifestado.&#160;Sobre&#160;la&#160;emulación,&#160;al&#160;placer,&#160;el&#160;recelo&#160;invierte&#160;la&#160;estructura:&#160;en&#160;lugar&#160;de&#160;tratar&#160;de&#160;rebasar,&#160;<br/>
+eclipsar&#160;&#160;a&#160;&#160;otro,&#160;&#160;el&#160;&#160;sujeto&#160;&#160;teme&#160;&#160;esta&#160;&#160;vez&#160;&#160;ser&#160;&#160;rebasado&#160;&#160;o&#160;&#160;eclipsado;&#160;&#160;la&#160;&#160;emulación&#160;&#160;presupone&#160;&#160;la&#160;<br/>
+superioridad&#160;del&#160;rival,&#160;el&#160;recelo&#160;lo&#160;aprehende.&#160;EL&#160;dispositivo&#160;de&#160;base&#160;es&#160;siempre&#160;el&#160;mismo:&#160;la&#160;figuración&#160;<br/>
+de&#160;la&#160;rivalidad,&#160;sin&#160;objeto&#160;definido,&#160;pero&#160;aprehendida&#160;desde&#160;la&#160;perspectiva&#160;de&#160;uno&#160;solo&#160;de&#160;los&#160;sujetos.&#160;<br/>
+Únicamente&#160;&#160;ha&#160;&#160;cambiado&#160;&#160;la&#160;&#160;forma&#160;&#160;discursiva…Nos&#160;&#160;encontramos&#160;&#160;pues&#160;&#160;con&#160;&#160;otra&#160;&#160;variación&#160;&#160;de&#160;<br/>
+perspectiva&#160;en&#160;la&#160;que&#160;la&#160;emulación&#160;se&#160;construye&#160;en&#160;la&#160;perspectiva&#160;de&#160;aquel&#160;que&#160;trata&#160;de&#160;rebasar&#160;al&#160;otro&#160;y&#160;<br/>
+el&#160;recelo se&#160;construye&#160;en&#160;la&#160;perspectiva&#160;de&#160;aquel&#160;que&#160;es&#160;susceptible&#160;de&#160;ser rebasado.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p165
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
+p.&#160;165<br/>
+LOS&#160;CELOS<br/>
+Dentro&#160;&#160;de&#160;&#160;esa&#160;&#160;configuración,&#160;&#160;los&#160;&#160;“celos”&#160;&#160;se&#160;&#160;dan&#160;&#160;como&#160;&#160;un&#160;&#160;resultado&#160;&#160;de&#160;&#160;la&#160;&#160;serie&#160;&#160;de&#160;<br/>
+especificaciones&#160;&#160;y&#160;&#160;de&#160;&#160;articulaciones&#160;&#160;ya&#160;&#160;señaladas&#160;&#160;en&#160;&#160;las&#160;&#160;figuras&#160;&#160;precedentes:&#160;&#160;desde&#160;&#160;luego,&#160;&#160;es&#160;&#160;la&#160;&#160;más&#160;<br/>
+compleja&#160;de&#160;todas&#160;las&#160;que&#160;hemos&#160;considerado&#160;hasta&#160;ahora.&#160;Se&#160;apoya&#160;en&#160;el&#160;dispositivo&#160;actancial&#160;S1/S2/<br/>
+S3;&#160;está&#160;&#160;fundada&#160;&#160;también&#160;&#160;en&#160;&#160;la&#160;&#160;perspectiva&#160;&#160;de&#160;&#160;un&#160;&#160;sujeto&#160;&#160;S1;&#160;&#160;puede&#160;&#160;focalizar,&#160;&#160;ya&#160;&#160;sea&#160;&#160;la&#160;&#160;relación&#160;&#160;de&#160;<br/>
+rivalidad,&#160;&#160;especificándose&#160;&#160;así&#160;&#160;en&#160;&#160;prospección&#160;&#160;como&#160;&#160;un&#160;&#160;“temor”,&#160;&#160;o&#160;&#160;bien&#160;&#160;en&#160;&#160;relación&#160;&#160;de&#160;&#160;objeto,&#160;<br/>
+especializándose&#160;entonces&#160;&#160;en&#160;&#160;retrospección&#160;&#160;que&#160;&#160;con&#160;&#160;la&#160;&#160;emulación,&#160;&#160;ya&#160;&#160;que&#160;&#160;la&#160;&#160;perspectiva&#160;&#160;será&#160;&#160;siempre&#160;<br/>
+la&#160;&#160;de&#160;&#160;aquel&#160;&#160;que&#160;teme&#160;ser&#160;rebasado&#160;o&#160;que&#160;sufre&#160;por&#160;haberlo&#160;sido,&#160;dicho&#160;de&#160;otra&#160;forma&#160;la&#160;competencia&#160;de&#160;<br/>
+referencia&#160;es&#160;la&#160;del&#160;celoso&#160;y&#160;desde&#160;que&#160;el&#160;sistema&#160;se&#160;invierte,&#160;al&#160;convertirse&#160;la&#160;competencia&#160;del&#160;rival&#160;en&#160;<br/>
+referencia, se&#160;sale&#160;de&#160;los&#160;celos&#160;para&#160;entrar en la&#160;emulación.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p167-168
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
+p.&#160;167-168<br/>
+LOS&#160;CELOS<br/>
+Esa&#160;posición&#160;muy&#160;particular&#160;en&#160;el&#160;dispositivo&#160;actancial&#160;va&#160;a&#160;traducirse&#160;en&#160;el&#160;nivel&#160;discursivo&#160;por&#160;<br/>
+la&#160;atribución&#160;de&#160;una&#160;posición&#160;de&#160;observación&#160;específica:&#160;el&#160;observador&#160;de&#160;los&#160;celos&#160;será&#160;de&#160;hecho&#160;un&#160;<br/>
+“espectador”,&#160;&#160;es&#160;&#160;decir,&#160;&#160;un&#160;&#160;observador&#160;&#160;cuyas&#160;&#160;coordenadas&#160;&#160;espacio-temporales&#160;&#160;se&#160;&#160;refieren&#160;&#160;a&#160;&#160;las&#160;&#160;de&#160;&#160;un&#160;<br/>
+espectáculo&#160;que&#160;le&#160;es&#160;dado,&#160;pero&#160;que&#160;en&#160;ningún&#160;caso&#160;puede&#160;figurar&#160;como&#160;actor&#160;en&#160;la&#160;misma&#160;escena.&#160;En&#160;<br/>
+efecto,&#160;&#160;como&#160;&#160;se&#160;&#160;verá&#160;&#160;pronto,&#160;&#160;cualquiera&#160;&#160;que&#160;&#160;sea&#160;&#160;la&#160;&#160;posición&#160;&#160;espacial&#160;&#160;o&#160;&#160;temporal&#160;&#160;del&#160;&#160;celoso&#160;&#160;con&#160;<br/>
+relación&#160;a&#160;la&#160;escena&#160;en&#160;la&#160;que&#160;el&#160;rival&#160;y&#160;el&#160;objeto&#160;se&#160;conjuntan,&#160;esta&#160;última&#160;está&#160;siempre&#160;“presente”&#160;en&#160;su&#160;<br/>
+imaginación&#160;–es&#160;la&#160;obra&#160;de&#160;sus&#160;determinaciones&#160;espacio-temporales-,&#160;pero siempre&#160;excluido.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p167
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
+p. 167<br/>
+LOS&#160;CELOS<br/>
+.&#160;El&#160;celoso&#160;en&#160;el&#160;espectáculo&#160;<br/>
+Se&#160;puede&#160;hacer&#160;observar&#160;a&#160;ese&#160;respecto&#160;que&#160;los&#160;celos&#160;especifican&#160;al&#160;actante&#160;observador&#160;encargado&#160;de&#160;<br/>
+orientar&#160;el&#160;dispositivo&#160;actancial.&#160;El&#160;celoso&#160;sufre&#160;por&#160;“ver&#160;a&#160;otro&#160;gozar”&#160;o&#160;“teme&#160;perder”;&#160;en&#160;un&#160;caso,&#160;S2&#160;<br/>
+es&#160;focalizado,&#160;en&#160;el&#160;otro,&#160;es&#160;O,S3;&#160;pero&#160;la&#160;particularidad&#160;de&#160;los&#160;celos&#160;radica&#160;en&#160;apuntar&#160;siempre&#160;hacia&#160;la&#160;<br/>
+relación&#160;S2/O,S3,&#160;poniendo&#160;en&#160;un&#160;primer&#160;plano,&#160;o&#160;bien&#160;a&#160;un&#160;actante,&#160;o&#160;bien&#160;al&#160;otro;&#160;por&#160;eso,&#160;cualquiera&#160;<br/>
+sea&#160;la&#160;perspectiva&#160;adoptada,&#160;el&#160;espectáculo&#160;que&#160;ofrece&#160;a&#160;S1,&#160;es&#160;siempre&#160;el&#160;de&#160;la&#160;junción&#160;entre&#160;rival&#160;y&#160;el&#160;<br/>
+objeto.&#160;&#160;Que&#160;&#160;algún&#160;&#160;otro&#160;&#160;goce&#160;&#160;de&#160;&#160;O&#160;&#160;o&#160;&#160;que&#160;&#160;O&#160;&#160;pueda&#160;&#160;ser&#160;&#160;perdido&#160;&#160;en&#160;&#160;provecho&#160;&#160;de&#160;&#160;otro,&#160;&#160;la&#160;&#160;misma&#160;&#160;escena&#160;<br/>
+engendra&#160;siempre&#160;la&#160;misma&#160;pasión&#160;más&#160;allá&#160;de&#160;la&#160;variación&#160;de&#160;perspectiva.&#160;Los&#160;celos&#160;obedecerán&#160;a&#160;la&#160;<br/>
+misma&#160;distinción que&#160;la&#160;envidia, pero&#160;desde&#160;el&#160;fondo&#160;de&#160;una&#160;especificación&#160;propia.&#160;<br/>
+Si&#160;el&#160;espectáculo&#160;fundamental&#160;de&#160;los&#160;celos&#160;es&#160;el&#160;de&#160;la&#160;junción&#160;modalizada&#160;del&#160;rival&#160;y&#160;del&#160;objeto,&#160;<br/>
+el&#160;celoso&#160;como&#160;observador&#160;es&#160;excluido&#160;de&#160;la&#160;relación&#160;de&#160;junción.&#160;El&#160;envidioso&#160;podía&#160;escoger&#160;entre&#160;dos&#160;<br/>
+perspectivas,&#160;&#160;en&#160;&#160;las&#160;&#160;que&#160;&#160;siempre&#160;&#160;era&#160;&#160;el&#160;&#160;polo&#160;&#160;principal:&#160;&#160;o&#160;&#160;bien&#160;&#160;S1/S2,&#160;&#160;o&#160;&#160;bien&#160;&#160;S1/O,S3;&#160;&#160;por&#160;&#160;su&#160;&#160;parte&#160;&#160;en&#160;<br/>
+última&#160;&#160;instancia,&#160;&#160;el&#160;&#160;celoso&#160;&#160;sólo&#160;&#160;puede&#160;&#160;escoger&#160;&#160;entre&#160;&#160;dos&#160;&#160;perspectivas&#160;&#160;sobre&#160;&#160;S2/O,S3,&#160;&#160;por&#160;&#160;lo&#160;&#160;que&#160;&#160;se&#160;<br/>
+encuentra&#160;&#160;siempre&#160;&#160;en&#160;&#160;un&#160;&#160;segundo&#160;&#160;plano:&#160;&#160;sea&#160;&#160;(S1)&#160;&#160;S2/O&#160;&#160;o&#160;&#160;sea&#160;&#160;(S1)&#160;&#160;S2/O,S3.&#160;&#160;Por&#160;&#160;esa&#160;&#160;razón,&#160;&#160;el&#160;&#160;sujeto&#160;<br/>
+celoso&#160;se&#160;encuentra&#160;en&#160;la&#160;imposibilidad&#160;de&#160;segmentar&#160;el&#160;dispositivo&#160;actancial&#160;de&#160;manera&#160;distinta&#160;y&#160;la&#160;<br/>
+escena&#160;&#160;detestada&#160;&#160;o&#160;&#160;temida&#160;&#160;se&#160;&#160;le&#160;&#160;impone;&#160;&#160;con&#160;&#160;respecto&#160;&#160;a&#160;&#160;su&#160;&#160;propio&#160;&#160;simulacro&#160;&#160;pasional,&#160;&#160;él&#160;&#160;se&#160;<br/>
+presenta&#160;&#160;como&#160;sujeto&#160;virtualizado, un sujeto&#160;sin cuerpo que&#160;no puede&#160;acceder&#160;&#160;la&#160;escena.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p168
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
+p.&#160;168<br/>
+LOS&#160;CELOS<br/>
+.&#160;El&#160;apego&#160;intenso&#160;<br/>
+Nos&#160;&#160;limitaremos&#160;&#160;aquí&#160;&#160;al&#160;&#160;examen&#160;&#160;del&#160;&#160;“apego”&#160;&#160;propiamente&#160;&#160;dicho&#160;&#160;y&#160;&#160;luego&#160;&#160;de&#160;&#160;los&#160;&#160;correlatos&#160;&#160;“posesión”&#160;&#160;y&#160;<br/>“exclusividad”.&#160;En&#160;la&#160;definición&#160;misma&#160;de&#160;los&#160;celos,&#160;al&#160;apego&#160;está&#160;asociado,&#160;por&#160;un&#160;lado,&#160;con&#160;la&#160;intensidad,&#160;ya&#160;que&#160;es&#160;<br/>“vivo”, y,&#160;por el&#160;otro, con el&#160;“deseo&#160;de&#160;posesión exclusiva”.&#160;<br/>La&#160;intensidad&#160;del&#160;apego&#160;sobredeterminaría&#160;la&#160;junción,&#160;puesto&#160;que&#160;el&#160;diccionario&#160;precisa&#160;que&#160;es&#160;“un&#160;sentimiento&#160;que&#160;<br/>nos&#160;une…”…El&#160;apego&#160;descansaría&#160;con&#160;el&#160;<i>deber-estar-ser&#160;</i>que&#160;modalizaría&#160;no&#160;al&#160;objeto&#160;sino&#160;a&#160;la&#160;junción,&#160;cualquiera&#160;<br/>que&#160;ésta&#160;sea.&#160;Un&#160;<i>deber-estar-ser&#160;</i>que&#160;compromete&#160;en&#160;alguna&#160;medida&#160;la&#160;existencia&#160;semiótica&#160;del&#160;sujeto;&#160;sucede&#160;en&#160;efecto&#160;<br/>como&#160;si,&#160;estando&#160;roto&#160;el&#160;apego,&#160;el&#160;sujeto&#160;debería&#160;regresar&#160;a&#160;un&#160;estadio&#160;presemiótico&#160;en&#160;el&#160;que&#160;nada&#160;tendría&#160;ya&#160;ningún&#160;<br/>valor para&#160;él.&#160;<br/>
+No&#160;se&#160;ve&#160;cómo&#160;la&#160;intensidad&#160;podría&#160;afectar&#160;directamente&#160;a&#160;esa&#160;modalidad,&#160;ya&#160;que&#160;es&#160;categorial:&#160;¿cómo&#160;una&#160;<br/>
+necesidad&#160;&#160;que&#160;&#160;se&#160;&#160;respete&#160;&#160;puede&#160;&#160;ser&#160;&#160;más&#160;&#160;o&#160;&#160;menos&#160;&#160;fuerte&#160;&#160;que&#160;&#160;otra&#160;&#160;necesidad?&#160;&#160;Las&#160;&#160;únicas&#160;&#160;respuestas&#160;&#160;que&#160;&#160;vienen&#160;a&#160;&#160;la&#160;<br/>mente&#160;son&#160;de&#160;tipo&#160;discursivo&#160;o&#160;tensivo:&#160;se&#160;puede&#160;admitir&#160;que&#160;ciertas&#160;necesidades&#160;sean&#160;jerárquicamente&#160;superiores&#160;a&#160;<br/>otras,&#160;&#160;que&#160;&#160;algunas&#160;&#160;sean&#160;&#160;más&#160;&#160;urgentes,&#160;&#160;prioritarias.&#160;&#160;La&#160;&#160;necesidad,&#160;&#160;en&#160;&#160;suma,&#160;&#160;no&#160;&#160;conocería&#160;&#160;otras&#160;&#160;gradaciones&#160;&#160;ni&#160;&#160;otras&#160;<br/>diferencias&#160;&#160;de&#160;&#160;intensidad&#160;&#160;que&#160;&#160;las&#160;&#160;que&#160;&#160;obligan&#160;&#160;a&#160;&#160;distribuir&#160;&#160;temporal&#160;&#160;y&#160;&#160;espacialmente&#160;&#160;los&#160;&#160;programas&#160;&#160;con&#160;&#160;vistas&#160;&#160;a&#160;&#160;su&#160;<br/>linearización,&#160;&#160;durante&#160;&#160;la&#160;&#160;puesta&#160;&#160;en&#160;&#160;discurso:&#160;&#160;la&#160;&#160;intensidad&#160;&#160;del&#160;&#160;apego&#160;&#160;se&#160;&#160;reconocería&#160;&#160;especialmente,&#160;&#160;ya&#160;&#160;sea&#160;&#160;en&#160;&#160;la&#160;<br/>anterioridad&#160;de&#160;los&#160;programas&#160;o&#160;de&#160;los&#160;comportamientos&#160;correspondientes&#160;al&#160;objeto,&#160;o&#160;bien&#160;por&#160;su&#160;ubicación&#160;en&#160;primer&#160;<br/>plano en la&#160;representación&#160;figurativa&#160;que&#160;el&#160;sujeto da&#160;de&#160;su&#160;ser.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p170
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 170&#160;<br/>
+LOS&#160;CELOS&#160;<br/>
+.El&#160;celo&#160;<br/>
+El&#160;celo&#160;intensifica&#160;y&#160;moraliza&#160;a&#160;la&#160;vez&#160;el&#160;apego.&#160;Es,&#160;se&#160;dice,&#160;“un&#160;vivo&#160;ardor&#160;por&#160;servir&#160;a&#160;una&#160;persona&#160;o&#160;a&#160;<br/>
+una&#160;&#160;causa,&#160;&#160;a&#160;&#160;la&#160;&#160;cual&#160;&#160;se&#160;&#160;está&#160;&#160;sinceramente&#160;&#160;consagrado”.&#160;&#160;La&#160;&#160;intensidad&#160;&#160;se&#160;&#160;manifiesta&#160;&#160;aquí&#160;&#160;como&#160;<br/>
+“calor”,&#160;el&#160;&#160;sentimiento&#160;&#160;se&#160;&#160;ha&#160;&#160;convertido&#160;&#160;en&#160;&#160;una&#160;&#160;disposición&#160;&#160;a&#160;&#160;hacer&#160;&#160;(a&#160;&#160;servir),&#160;&#160;y&#160;&#160;el&#160;&#160;apego&#160;&#160;es&#160;&#160;sólo&#160;<br/>
+presupuesto;&#160;&#160;además,&#160;&#160;el&#160;&#160;apego&#160;&#160;es&#160;&#160;reformulado&#160;&#160;como&#160;&#160;“abnegación”,&#160;&#160;lo&#160;&#160;que,&#160;&#160;si&#160;&#160;se&#160;&#160;pone&#160;&#160;entre&#160;<br/>
+paréntesis&#160;&#160;el&#160;&#160;hecho&#160;&#160;de&#160;que&#160;la&#160;relación&#160;sea&#160;en&#160;ese&#160;caso&#160;intersubjetiva&#160;y&#160;jerarquizada,&#160;viene&#160;a&#160;señalar&#160;el&#160;<br/>
+investimiento&#160;exclusivo&#160;del&#160;sujeto&#160;por&#160;su&#160;objeto:&#160;está&#160;“consagrado”,&#160;incluso&#160;“sacrificado”&#160;a&#160;su&#160;objeto,&#160;y&#160;<br/>
+los&#160;correlatos&#160;“fidelidad”,&#160;“lealtad”,&#160;confirman&#160;la&#160;independencia&#160;del&#160;<i>deber.-ser-estar&#160;</i>con&#160;respecto&#160;a&#160;las&#160;<br/>
+peripecias&#160;narrativas,&#160;una&#160;vez&#160;que&#160;ha&#160;sido&#160;suspendida&#160;la&#160;moralización&#160;que&#160;los&#160;sobredetermina.&#160;Por&#160;lo&#160;<br/>
+demás,&#160;presuponiendo&#160;la&#160;<i>confianza</i>,&#160;esos&#160;dos&#160;últimos&#160;correlatos&#160;nos&#160;recuerdan&#160;que,&#160;de&#160;este&#160;lado&#160;de&#160;la&#160;<br/>
+moralización,&#160;el&#160;<i>deber-&#160;estar-&#160;ser&#160;</i>engendra&#160;la&#160;espera&#160;o&#160;que,&#160;más&#160;profundamente,&#160;la&#160;modulación&#160;que&#160;lo&#160;<br/>
+prefigura&#160;se&#160;dibuja&#160;sobre&#160;el&#160;fondo de&#160;la&#160;fiducia.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p171
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 171<br/>
+LOS&#160;CELOS&#160;<br/>
+.La&#160;posesión&#160;y&#160;el&#160;gozo&#160;<br/>
+La&#160;posesión&#160;exclusiva&#160;que&#160;reclama&#160;el&#160;celoso&#160;abre&#160;dos&#160;vías&#160;de&#160;investigación&#160;paralelas:&#160;una&#160;relativa&#160;a&#160;la&#160;<br/>
+posesión,&#160;y&#160;la&#160;otra,&#160;a&#160;la&#160;otra,&#160;a&#160;la&#160;exclusividad.&#160;Entendemos&#160;a&#160;veces&#160;por&#160;“actitud&#160;posesiva”&#160;una&#160;actitud&#160;<br/>
+exclusiva,&#160;&#160;pero&#160;&#160;esa&#160;&#160;contaminación&#160;&#160;de&#160;&#160;un&#160;&#160;término&#160;&#160;por&#160;&#160;otro&#160;&#160;noes&#160;&#160;más&#160;&#160;que&#160;&#160;un&#160;&#160;efecto&#160;&#160;de&#160;&#160;su&#160;&#160;frecuentes&#160;<br/>
+asociaciones.&#160;<br/>
+La&#160;“posesión”&#160;sería&#160;la&#160;“facultad&#160;de&#160;hacer&#160;uso&#160;de&#160;un&#160;bien&#160;del&#160;que&#160;se&#160;dispone”&#160;y&#160;remitirá&#160;así&#160;a&#160;<br/>
+“detentar”&#160;“servirse&#160;de”,&#160;“poder&#160;gozar&#160;de”.&#160;El&#160;sujeto&#160;de&#160;la&#160;posesión&#160;no&#160;es&#160;un&#160;sujeto&#160;de&#160;hacer&#160;que&#160;apunte&#160;<br/>
+a&#160;la&#160;conjunción,&#160;sino&#160;un&#160;sujeto&#160;ya&#160;conjunto&#160;que&#160;apunta&#160;al&#160;goce&#160;del&#160;objeto.&#160;Se&#160;observa&#160;también&#160;un&#160;sujeto&#160;<br/>
+de&#160;&#160;hacer&#160;&#160;que&#160;&#160;da&#160;&#160;placer&#160;&#160;al&#160;&#160;sujeto&#160;&#160;de&#160;&#160;estado,&#160;&#160;pero&#160;&#160;estaría&#160;&#160;situado&#160;&#160;en&#160;&#160;la&#160;&#160;dimensión&#160;&#160;tímica&#160;&#160;y&#160;&#160;no&#160;&#160;en&#160;&#160;la&#160;<br/>
+dimensión&#160;&#160;pragmática&#160;&#160;que&#160;&#160;ha&#160;&#160;llevado&#160;&#160;a&#160;&#160;la&#160;&#160;conjunción&#160;&#160;con&#160;&#160;el&#160;&#160;objeto:&#160;&#160;se&#160;&#160;escoge&#160;&#160;y&#160;&#160;compra&#160;&#160;una&#160;&#160;casa&#160;<br/>
+(dimensión&#160;pragmática) y&#160;se&#160;goza&#160;de&#160;ella&#160;una&#160;vez&#160;que&#160;se&#160;la&#160;tiene&#160;(dimensión tímica)…&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p173
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 173&#160;<br/>
+LOS&#160;CELOS&#160;<br/>
+.&#160;La&#160;exclusividad&#160;<br/>
+La&#160;&#160;“exclusividad”,&#160;&#160;así&#160;&#160;como&#160;&#160;el&#160;&#160;adjetivo&#160;&#160;“exclusivo”&#160;&#160;y&#160;&#160;el&#160;&#160;verbo&#160;&#160;“excluir”,&#160;&#160;comportan&#160;&#160;a&#160;&#160;la&#160;&#160;vez&#160;&#160;una&#160;<br/>
+modalización,&#160;según el&#160;<i>deber-no-estar-ser,&#160;</i>y&#160;una&#160;cuantificación.&#160;<br/>
+Toda&#160;exclusión&#160;supone&#160;una&#160;totalidad&#160;y&#160;una&#160;parte&#160;de&#160;esa&#160;totalidad&#160;considerada&#160;como&#160;una&#160;unidad;&#160;<br/>
+lo&#160;&#160;que&#160;&#160;en&#160;&#160;realidad&#160;&#160;delimita&#160;&#160;a&#160;&#160;la&#160;&#160;exclusión&#160;&#160;es&#160;&#160;una&#160;&#160;realidad&#160;&#160;salida&#160;&#160;de&#160;&#160;la&#160;&#160;totalidad,&#160;&#160;individuo,&#160;&#160;grupo&#160;&#160;o&#160;<br/>
+fracción…&#160;<br/>
+p. 176&#160;<br/>
+Consultando&#160;&#160;de&#160;&#160;nuevo&#160;&#160;las&#160;&#160;definiciones&#160;&#160;del&#160;&#160;diccionario,&#160;&#160;notamos&#160;&#160;que&#160;&#160;distinguen&#160;&#160;cuatro&#160;<br/>
+sememas,&#160;caracterizados&#160;cada&#160;uno&#160;por&#160;un&#160;término&#160;genérico,&#160;Se&#160;encuentra&#160;así&#160;un&#160;<i>apego</i>:&#160;“apego&#160;vivo&#160;y&#160;<br/>
+receloso”,&#160;&#160;un&#160;&#160;<i>mal&#160;&#160;sentimiento</i>:&#160;&#160;“mal&#160;&#160;sentimiento&#160;&#160;que&#160;&#160;se&#160;&#160;experimenta&#160;&#160;viendo&#160;&#160;a&#160;&#160;otro&#160;&#160;gozar…”;&#160;&#160;una&#160;<br/>
+<i>inquietud</i>:&#160;&#160;inquietud&#160;&#160;que&#160;&#160;inspira&#160;&#160;el&#160;&#160;temor&#160;&#160;a&#160;&#160;compartir…”;&#160;&#160;y&#160;&#160;por&#160;&#160;último,&#160;&#160;un&#160;&#160;<i>sentimiento&#160;&#160;doloroso:&#160;</i><br/>
+“sentimiento&#160;doloroso&#160;que&#160;hace&#160;nacer,&#160;en&#160;el&#160;que&#160;lo&#160;experimenta,&#160;las&#160;exigencias&#160;de&#160;un&#160;amor&#160;inquieto,&#160;el&#160;<br/>
+deseo de&#160;posesión&#160;exclusiva&#160;de&#160;la&#160;persona&#160;amada, la&#160;sospecha&#160;o&#160;la&#160;incertidumbre&#160;de&#160;su infidelidad”.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p178-179
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 178-179&#160;<br/>
+LOS&#160;CELOS&#160;<br/>
+.&#160;La&#160;inquietud&#160;<br/>
+La&#160;inquietud&#160;parece&#160;ser&#160;más&#160;general&#160;que&#160;el&#160;temor&#160;o&#160;el&#160;recelo,&#160;razón&#160;por&#160;la&#160;cual&#160;será&#160;considerada&#160;como&#160;<br/>
+uno&#160;de&#160;los&#160;constituyentes&#160;sintácticos&#160;fundamentales&#160;de&#160;los&#160;celos.&#160;El&#160;temor&#160;solo&#160;no&#160;supone&#160;más&#160;que&#160;un&#160;<br/>
+saber&#160;&#160;y&#160;&#160;un&#160;&#160;creer,&#160;&#160;una&#160;&#160;espera,&#160;&#160;modalizada&#160;&#160;a&#160;&#160;la&#160;&#160;vez&#160;&#160;conflictivamente&#160;&#160;por&#160;&#160;el&#160;&#160;<i>poder-estar-ser&#160;&#160;(la&#160;</i><br/>
+<i>eventualidad)&#160;&#160;y&#160;&#160;por&#160;&#160;el&#160;&#160;querer-no&#160;&#160;estar-ser&#160;&#160;</i>(el&#160;&#160;rechazo).&#160;&#160;Por&#160;&#160;el&#160;&#160;contrario,&#160;&#160;la&#160;&#160;inquietud&#160;&#160;introduce,&#160;&#160;con&#160;<br/>
+permanencia&#160;y&#160;la&#160;iteración,&#160;un&#160;rol&#160;patémico&#160;estereotipado,&#160;una&#160;constante&#160;de&#160;la&#160;competencia&#160;pasional&#160;<br/>
+del&#160;sujeto.&#160;Circunscritos&#160;al&#160;temor,&#160;los&#160;celos&#160;no&#160;serían&#160;más&#160;que&#160;un&#160;sentimiento&#160;puntual,&#160;incidental,&#160;ya&#160;que&#160;<br/>
+el&#160;temor&#160;no&#160;tiene&#160;otra&#160;razón&#160;que&#160;un&#160;acontecimiento&#160;por&#160;venir,&#160;que&#160;aquí&#160;cumple&#160;una&#160;función&#160;de&#160;objeto&#160;de&#160;<br/>
+saber&#160;y&#160;que&#160;moviliza&#160;la&#160;espera;&#160;eso&#160;sería,&#160;de&#160;alguna&#160;manera,&#160;unos&#160;celos&#160;dictados&#160;por&#160;las&#160;circunstancias.&#160;<br/>
+En&#160;&#160;cambio,&#160;&#160;con&#160;&#160;la&#160;&#160;inquietud&#160;&#160;que&#160;&#160;por&#160;&#160;definición&#160;&#160;no&#160;&#160;tiene&#160;&#160;objeto&#160;&#160;preciso,&#160;&#160;los&#160;&#160;celos&#160;&#160;llegan&#160;&#160;a&#160;&#160;ser&#160;&#160;una&#160;<br/>
+propiedad&#160;del&#160;sujeto&#160;mismo,&#160;inscrita&#160;no&#160;en&#160;la&#160;circunstancia,&#160;sino&#160;en&#160;la&#160;competencia,&#160;como&#160;una&#160;manera&#160;<br/>
+de&#160;estar-ser del&#160;celoso.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p179 #1
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones<br/></i>p. 179&#160;<br/>
+LOS&#160;CELOS&#160;<br/>
+.La&#160;inquietud&#160;(2)&#160;<br/>
+Comparada&#160;con&#160;el&#160;recelo,&#160;la&#160;inquietud&#160;conserva&#160;también&#160;una&#160;posición&#160;genérica,&#160;puesto&#160;que&#160;el&#160;recelo&#160;no&#160;<br/>
+es&#160;más&#160;que&#160;una&#160;fase&#160;efímera&#160;de&#160;los&#160;celos&#160;o&#160;de&#160;la&#160;inquietud,&#160;aquella&#160;que&#160;se&#160;perfila&#160;la&#160;sombra&#160;del&#160;&#160;rival.&#160;<br/>
+Por&#160;&#160;consiguiente,&#160;&#160;desde&#160;&#160;el&#160;&#160;punto&#160;&#160;de&#160;&#160;vista&#160;&#160;de&#160;&#160;la&#160;&#160;sintaxis&#160;&#160;la&#160;&#160;inquietud&#160;&#160;rige&#160;&#160;toda&#160;&#160;la&#160;&#160;cadena&#160;&#160;y&#160;&#160;se&#160;&#160;traduce&#160;<br/>
+pasajeramente,&#160;ya&#160;sea&#160;por&#160;recelo,&#160;cuando&#160;el&#160;rival&#160;se&#160;manifiesta,&#160;o&#160;bien&#160;por&#160;el&#160;temor,&#160;cuando&#160;el&#160;evento&#160;<br/>
+disfórico&#160;es&#160;esperado.&#160;<br/>
+La&#160;&#160;inquietud&#160;&#160;puede&#160;&#160;injertarse&#160;&#160;particularmente,&#160;&#160;tanto&#160;&#160;en&#160;&#160;la&#160;&#160;espera&#160;&#160;del&#160;&#160;acontecimiento&#160;<br/>
+propiamente&#160;&#160;dicho.&#160;&#160;En&#160;&#160;ese&#160;&#160;sentido&#160;&#160;hace&#160;&#160;revivir&#160;&#160;al&#160;&#160;sujeto&#160;&#160;apasionado&#160;&#160;el&#160;&#160;estremecimiento&#160;&#160;fórico&#160;<br/>
+fundamental,&#160;aquel&#160;que&#160;engendra&#160;el&#160;“sentir”&#160;mínimo.&#160;Además,&#160;si&#160;la&#160;agitación&#160;entre&#160;euforia&#160;y&#160;disforia&#160;<br/>
+impide&#160;&#160;al&#160;&#160;sujeto&#160;&#160;inquieto&#160;&#160;la&#160;&#160;polarización&#160;&#160;que&#160;&#160;lo&#160;&#160;haría&#160;&#160;un&#160;&#160;verdadero&#160;&#160;sujeto&#160;&#160;de&#160;&#160;búsqueda,&#160;&#160;por&#160;&#160;una&#160;<br/>
+regresión&#160;&#160;en&#160;&#160;el&#160;&#160;recorrido&#160;&#160;generativo&#160;&#160;lo&#160;&#160;hace&#160;&#160;volver&#160;&#160;a&#160;&#160;la&#160;&#160;tensividad&#160;&#160;fórica,&#160;&#160;anterior&#160;&#160;a&#160;&#160;la&#160;<br/>
+categorización.&#160;La&#160;&#160;oscilación,&#160;&#160;en&#160;&#160;efecto,&#160;&#160;no&#160;&#160;puede&#160;&#160;ser&#160;&#160;interpretada&#160;&#160;como&#160;&#160;un&#160;&#160;recorrido&#160;&#160;entre&#160;&#160;dos&#160;<br/>
+posiciones&#160;extremas:&#160;el&#160;inquieto&#160;no&#160;es&#160;un&#160;ciclotímico;&#160;es&#160;más&#160;bien,&#160;una&#160;indecisión&#160;perpetua&#160;dentro&#160;de&#160;<br/>
+una&#160;figura&#160;mixta&#160;que&#160;no&#160;llega&#160;a&#160;fijar&#160;sus&#160;términos.&#160;Por&#160;eso&#160;el&#160;inquieto&#160;puede&#160;ser&#160;comprendido&#160;como&#160;un&#160;<br/>
+sujeto sumergido en las&#160;modulaciones&#160;tensivas.&#160;<br/>
+<hr/>
+</body>
+</html>
+
+<hr />
+<br />
+<br />
+
+## p179
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><b>GREIMAS&#160;A.&#160;J. y&#160;J.&#160;FONTANILLE</b>.(1994[1991]).&#160;<i>Semiótica&#160;de&#160;las&#160;pasiones</i><br/>
+p. 179<br/>
+LOS&#160;CELOS<br/>
+La&#160;inquietud&#160;(3)&#160;<br/>
+El&#160;&#160;sujeto&#160;&#160;inquieto&#160;&#160;podría&#160;&#160;pasar&#160;&#160;por&#160;&#160;prototipo&#160;&#160;del&#160;&#160;sujeto&#160;&#160;apasionado,&#160;&#160;ya&#160;&#160;que&#160;&#160;a&#160;&#160;falta&#160;&#160;de&#160;&#160;poder&#160;<br/>
+recorrer&#160;posiciones&#160;discontinuas&#160;dentro&#160;de&#160;las&#160;categorías&#160;modales&#160;–en&#160;el&#160;seno&#160;de&#160;las&#160;cuales&#160;no&#160;puede&#160;<br/>
+más&#160;que&#160;“oscilar”-&#160;el&#160;único&#160;recorrido&#160;que&#160;se&#160;le&#160;ofrece&#160;es&#160;un&#160;recorrido&#160;de&#160;una&#160;modalización&#160;a&#160;la&#160;otra,&#160;es&#160;<br/>
+decir,&#160;&#160;por&#160;&#160;el&#160;&#160;interior&#160;&#160;de&#160;&#160;los&#160;&#160;dispositivos&#160;&#160;modales.&#160;&#160;La&#160;&#160;inquietud,&#160;&#160;al&#160;&#160;impedir&#160;&#160;al&#160;&#160;sujeto&#160;&#160;las&#160;<br/>
+transformaciones&#160;discontinuas&#160;&#160;que&#160;&#160;ofrecen&#160;&#160;las&#160;&#160;categorías&#160;&#160;modales,&#160;&#160;lo&#160;&#160;predispone&#160;&#160;para&#160;&#160;plegarse&#160;&#160;a&#160;&#160;la&#160;<br/>
+sintaxis&#160;intermodal&#160;dentro&#160;&#160;de&#160;&#160;los&#160;&#160;dispositivos&#160;&#160;pasionales.&#160;&#160;El&#160;&#160;inquieto&#160;&#160;sería&#160;&#160;también&#160;&#160;un&#160;&#160;prototipo&#160;&#160;del&#160;<br/>
+sujeto&#160;&#160;apasionado&#160;&#160;e&#160;otro&#160;sentido,&#160;complementario&#160;del&#160;precedente.&#160;En&#160;efecto,&#160;,&#160;si&#160;se&#160;trata&#160;de&#160;identificar&#160;<br/>
+su&#160;dispositivo&#160;modal&#160;específico&#160;o&#160;su&#160;recorrido&#160;existencial,&#160;no&#160;se&#160;llega&#160;a&#160;él:&#160;el&#160;querer,&#160;el&#160;saber,&#160;el&#160;poder&#160;y&#160;<br/>
+el&#160;&#160;deber&#160;&#160;pueden&#160;&#160;igualmente&#160;&#160;fundar&#160;&#160;la&#160;&#160;inquietud;&#160;&#160;los&#160;&#160;sujetos&#160;&#160;realizados,&#160;&#160;virtualizados,&#160;&#160;actualizados&#160;&#160;y&#160;<br/>
+potencializados&#160;son&#160;todos&#160;susceptibles&#160;de&#160;estar-ser inquietos&#160;por razones&#160;diferentes.&#160;<br/>
+…&#160;<br/>
 <hr/>
 </body>
 </html>
