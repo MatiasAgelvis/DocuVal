@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Semiotica'
+project = 'Ciencias del Significado'
 copyright = '2021, Valmore Agelvis'
 author = 'Matias Agelvis'
 
