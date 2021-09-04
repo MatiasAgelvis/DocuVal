@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Ciencias del Significado'
-copyright = '2021, Valmore Agelvis'
-author = 'Matias Agelvis'
+copyright = '2021, Valmore Agelvis, Matías Agelvis'
+author = 'Matías Agelvis'
 
 # The full version, including alpha/beta/rc tags
 release = ''
@@ -31,7 +31,8 @@ release = ''
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-'myst_parser'
+'myst_parser',
+"sphinx_design"
 # , 'sphinx.ext.githubpages'
 ]
 
@@ -42,7 +43,6 @@ templates_path = ['_templates']
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -59,10 +59,15 @@ html_theme = 'furo'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_js_files = ['update_footer.js']
 
 language = 'es'
 
 html_favicon = 'favicon.ico'
+
+html_title = project
+
+# html_logo = "ula.png"
 
 html_theme_options = {
     # 'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
