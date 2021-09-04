@@ -1,4 +1,4 @@
-# Moeschler y Reboul 2000 Diccionario Didáctico
+# Moeschler y Reboul 2000 Diccionario enciclopedico
 
 
 ## p11-12

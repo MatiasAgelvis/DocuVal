@@ -1,4 +1,4 @@
-# Putnam 1994 Las mil caras del realaismo
+# Putnam 1994 Las mil caras del realismo
 
 
 ## p18-19-20

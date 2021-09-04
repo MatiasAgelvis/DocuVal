@@ -1,4 +1,4 @@
-# Strawson 1997 El metafísico tolerante
+# Strawson 1997 Análisis y metafísica
 
 
 ## p12
